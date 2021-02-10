@@ -10,11 +10,12 @@ sections:
   - type: section_content
     title: About
     section_id: about
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >+
+      I am a communications enthusiast who loves good design, technology, and
+      digital lifestyle. I strive to create products and services that help
+      people. I live by the principle that age is just a number and learning is
+      never-ending. I love to inspire and be inspired.
+
     actions:
       - type: action
         label: Contact Me
