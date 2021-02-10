@@ -5,9 +5,8 @@ sections:
   - type: section_hero
     title: 'Hi, I''m Arsh Rai.'
     section_id: hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      I am a writer, content designer, and tech enthusiast. 
   - type: section_content
     title: About
     section_id: about
