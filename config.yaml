@@ -6,7 +6,7 @@ params:
   palette: blue
   header:
     type: header
-    title: Stackbit Fresh
+    title: Arsh Rai
     tagline: Header Tagline
     profile_img: images/avatar.png
     profile_img_alt: Author avatar
