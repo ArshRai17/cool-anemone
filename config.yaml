@@ -22,7 +22,7 @@ params:
         url: /blog/
         style: link
       - type: action
-        label: Style Guide
+        label: Music
         url: /style-guide/
         style: link
       - type: action
