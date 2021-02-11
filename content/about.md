@@ -10,5 +10,3 @@ Arsh Rai is a technical communicator based in [Ottawa](https://theplanetd.com/th
 > The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
 As a hobby, Arsh Rai creates music, and drinks tea and writes about it.  He lives in Ottawa with his beautiful wife and one toddler.
-
-**
