@@ -23,7 +23,7 @@ params:
         style: link
       - type: action
         label: Music
-        url: /style-guide/
+        url: /music/
         style: link
       - type: action
         label: About
