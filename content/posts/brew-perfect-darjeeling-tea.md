@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: How to brew a perfect cup of Darjeeling tea
 subtitle: lorem-ipsum
 date: '2021-02-24'
 thumb_img_alt: lorem-ipsum
