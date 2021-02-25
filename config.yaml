@@ -7,7 +7,7 @@ params:
   header:
     type: header
     title: Arsh Rai
-    tagline: Header Tagline
+    tagline: Content Designer
     profile_img: images/avatar.png
     profile_img_alt: Author avatar
     background: dark
