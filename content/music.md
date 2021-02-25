@@ -1,7 +1,7 @@
 ---
 title: Music
 subtitle: >-
-  Everything you can imagine is real." -- Pablo Picasso.
+  Everything you can imagine is real. -- Pablo Picasso.
 layout: page
 ---
 
