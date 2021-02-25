@@ -1,7 +1,7 @@
 ---
 title: Music
 subtitle: >-
-  The desire to create is one of the deepest yearnings of the human soul. -- Dieter F. Uchtdorf.
+  Everything you can imagine is real." -- Pablo Picasso.
 layout: page
 ---
 
