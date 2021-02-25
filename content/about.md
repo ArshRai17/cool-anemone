@@ -25,6 +25,6 @@ Writing and improving digital content to support task completion with clear, con
 
 I identify and understand the user and business needs, enjoy working with designers and developers, and value the importance of communicating clearly and consistently with the team and stakeholders.
 
-> Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity.. <cite>Neil Gaiman</cite>
+> Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity. <cite>Neil Gaiman</cite>
 
 As a hobby, I create music and drink Darjeeling tea.  He lives in Ottawa with his beautiful wife and one toddler.
