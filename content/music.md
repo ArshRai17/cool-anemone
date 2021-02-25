@@ -1,7 +1,7 @@
 ---
 title: Music
 subtitle: >-
-  he desire to create is one of the deepest yearnings of the human soul." -- Dieter F. Uchtdorf.
+  The desire to create is one of the deepest yearnings of the human soul." -- Dieter F. Uchtdorf.
 layout: page
 ---
 
