@@ -21,10 +21,8 @@ Over the last decade, I’ve:
 
 While I know you’ll be thrilled with the results, you’ll also really love how well we’ll work together.
 
-Writing and improving digital content to support task completion with clear, concise and meaningful language
-
-I identify and understand the user and business needs, enjoy working with designers and developers, and value the importance of communicating clearly and consistently with the team and stakeholders.
+I identify and understand the user and business needs, enjoy working with designers and developers, and value the importance of communicating clearly and consistently using meaningful language.
 
 > Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity. <cite>Charles Mingus</cite>
 
-As a hobby, I create music and drink Darjeeling tea.  He lives in Ottawa with his beautiful wife and one toddler.
+As a hobby, I create music and enjoying drinking Darjeeling tea.  I live in Ottawa with my wonderful wife and one toddler.
