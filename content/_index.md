@@ -5,9 +5,8 @@ sections:
   - type: section_hero
     title: 'Hi, I''m Arsh Rai.'
     section_id: hero
-    content: >
-      I am a content designer, writer,  tech enthusiast, and an aspiring
-      musician
+    content: |
+      I am a content designer, writer,  tech enthusiast, and musician.
   - type: section_content
     title: About
     section_id: about
