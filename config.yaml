@@ -66,7 +66,7 @@ params:
         icon_class: fa-dev
         new_window: true
       - label: youtube
-        url: lorem-ipsum
+        url: 'https://www.youtube.com/channel/UCswslInf1qC9DJIcYkWSyRg/featured'
         style: link
         icon_class: fa-youtube
         new_window: false
