@@ -55,7 +55,7 @@ params:
         new_window: true
       - type: action
         label: LinkedIn
-        url: 'https://www.linkedin.com/'
+        url: 'https://www.linkedin.com/in/arshabhirai/'
         style: icon
         icon_class: fa-linkedin
         new_window: true
