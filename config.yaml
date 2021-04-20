@@ -67,7 +67,7 @@ params:
         new_window: true
       - label: youtube
         url: 'https://www.youtube.com/channel/UCswslInf1qC9DJIcYkWSyRg/featured'
-        style: link
+        style: icon
         icon_class: fa-youtube
         new_window: false
         no_follow: false
