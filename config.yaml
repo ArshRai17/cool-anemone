@@ -48,16 +48,16 @@ params:
         icon_class: fa-twitter
         new_window: true
       - type: action
-        label: GitHub
-        url: 'https://github.com/ArshRai17'
-        style: icon
-        icon_class: fa-github
-        new_window: true
-      - type: action
         label: LinkedIn
         url: 'https://www.linkedin.com/in/arshabhirai/'
         style: icon
         icon_class: fa-linkedin
+        new_window: true
+      - type: action
+        label: GitHub
+        url: 'https://github.com/ArshRai17'
+        style: icon
+        icon_class: fa-github
         new_window: true
       - type: action
         label: DEV
