@@ -17,6 +17,11 @@ sections:
       people. I live by the principle that age is just a number and learning is
       never-ending. I love to inspire and be inspired.
 
+
+      Other than learning new technologies and writing about them, I create
+      music and enjoying drinking Darjeeling tea.  I live in Ottawa with my
+      wonderful wife and one toddler.
+
     actions:
       - type: action
         label: Contact Me
