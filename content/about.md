@@ -23,6 +23,5 @@ While I know you’ll be thrilled with the results, you’ll also really love ho
 
 I identify and understand the user and business needs, enjoy working with designers and developers, and value the importance of communicating clearly and consistently using meaningful language.
 
-> Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity. <cite>Charles Mingus</cite>
+> Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity. Charles Mingus
 
-As a hobby, I create music and enjoying drinking Darjeeling tea.  I live in Ottawa with my wonderful wife and one toddler.
