@@ -43,7 +43,7 @@ params:
         new_window: true
       - type: action
         label: Instagram
-        url: 'https://www.instagram.com/'
+        url: 'https://www.instagram.com/rcb_rai/'
         style: icon
         icon_class: fa-instagram
         new_window: true
