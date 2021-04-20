@@ -11,7 +11,7 @@ sections:
   - type: section_content
     title: About
     section_id: about
-    content: >+
+    content: >
       I am a communications enthusiast who loves good design, technology, and
       digital lifestyle. I strive to create products and services that help
       people. I live by the principle that age is just a number and learning is
@@ -19,9 +19,7 @@ sections:
 
 
       Other than learning new technologies and writing about them, I create
-      music and enjoying drinking Darjeeling tea.  I live in Ottawa with my
-      wonderful wife and one toddler.
-
+      music and enjoying drinking Darjeeling tea. 
     actions:
       - type: action
         label: Contact Me
