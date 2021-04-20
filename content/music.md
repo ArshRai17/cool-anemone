@@ -3,8 +3,17 @@ title: Music
 subtitle: 'Where my words fail, my music speaks'
 layout: page
 ---
+Music is food for my soul. Even when I am watching something on Netflix or just sitting musing over something, you will find me strumming something on my guitar. It's only when I am playing music, I am in a meditative state; I can let go of everything else and just play music and be in that moment. 
 
-**This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
+I grew u listening to an array of genres from rock to pop, blues and jazz, reggae, Nepali folk and contemporary music, Bollywood, and Indian Carnatic fusion. All the music I make is influenced by all the genres I love and bands I listen to. Growing up in a little town - my beautiful [Darjeeling](https://www.incredibleindia.org/content/incredibleindia/en/destinations/darjeeling.html) - where music is the heart-and-soul of every Darjeelingey, I was destined to pick up music as a serious hobby. Also, another reason why I am a passionate [Darjeeling tea](https://www.teaforte.com/teanotes/what-is-darjeeling-tea) sipper and a drinker! In Darjeeling, we love music so much that in every household you will find someone will be able to play one instrument or the other, and if they can play something, they will be a pretty good singer.
+
+As a teenager, I used to love hanging out with rock band members (friends and elder brothers); often mesmerized by their dexterity with their instruments. Back in the day, with the mediocre instruments and amplifiers, and rock musicians from Darjeeling used to blaze covers of Dream Theatre, Pink Floyd, Extreme, Iron Maiden, Megadeath, Rage Against the Machine, Led Zepplin, and so many more, and it used to sound so beautiful to my ears. I would sit there, just listening and admiring the grand musicians of Darjeeling. 
+
+I used to sing during my junior school days and started playing guitar when I was in university, and I never stopped. I am finally writing some music and this is me sharing something I really love. 
+
+Check out my compositions below:
+
+Video tiles
 
 # This is an H1
 
@@ -24,7 +33,7 @@ Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit
 
 ## Quoting
 
->Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. <cite>Scott Adams</cite>
+> Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. <cite>Scott Adams</cite>
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
 
@@ -32,32 +41,30 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum s
 
 ## Unordered Lists
 
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
+*   Donec non tortor in arcu mollis feugiat
+*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+*   Donec id eros eget quam aliquam gravida
+*   Vivamus convallis urna id felis
+*   Nulla porta tempus sapien
 
 ## Ordered Lists
 
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
+1.  Donec non tortor in arcu mollis feugiat
+2.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+3.  Donec id eros eget quam aliquam gravida
+4.  Vivamus convallis urna id felis
+5.  Nulla porta tempus sapien
 
 ## Code Blocks
 
 Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
 
-```
-<!-- Some example CSS code -->
-body {
-  color: #333;
-  font-family: Roboto, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-}
-```
+    <!-- Some example CSS code -->
+    body {
+      color: #333;
+      font-family: Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.5;
+    }
 
 ## Tables
 
