@@ -1,7 +1,6 @@
 ---
 title: Music
-subtitle: >-
-  Everything you can imagine is real. -- Pablo Picasso
+subtitle: 'Where my words fail, my music speaks'
 layout: page
 ---
 
