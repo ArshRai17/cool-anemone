@@ -59,12 +59,6 @@ params:
         style: icon
         icon_class: fa-github
         new_window: true
-      - type: action
-        label: DEV
-        url: 'https://dev.to/'
-        style: icon
-        icon_class: fa-dev
-        new_window: true
       - label: youtube
         url: 'https://www.youtube.com/channel/UCswslInf1qC9DJIcYkWSyRg/featured'
         style: icon
@@ -72,6 +66,12 @@ params:
         new_window: false
         no_follow: false
         type: action
+      - type: action
+        label: DEV
+        url: 'https://dev.to/'
+        style: icon
+        icon_class: fa-dev
+        new_window: true
   footer:
     type: footer
     content: >-
