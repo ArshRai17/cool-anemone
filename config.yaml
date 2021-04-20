@@ -36,6 +36,12 @@ params:
     has_social: true
     social_links:
       - type: action
+        label: LinkedIn
+        url: 'https://www.linkedin.com/in/arshabhirai/'
+        style: icon
+        icon_class: fa-linkedin
+        new_window: true
+      - type: action
         label: Instagram
         url: 'https://www.instagram.com/rcb_rai/'
         style: icon
@@ -46,12 +52,6 @@ params:
         url: 'https://twitter.com/arshrai_?lang=en'
         style: icon
         icon_class: fa-twitter
-        new_window: true
-      - type: action
-        label: LinkedIn
-        url: 'https://www.linkedin.com/in/arshabhirai/'
-        style: icon
-        icon_class: fa-linkedin
         new_window: true
       - type: action
         label: GitHub
