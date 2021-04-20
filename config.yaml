@@ -42,6 +42,12 @@ params:
         icon_class: fa-linkedin
         new_window: true
       - type: action
+        label: GitHub
+        url: 'https://github.com/ArshRai17'
+        style: icon
+        icon_class: fa-github
+        new_window: true
+      - type: action
         label: Instagram
         url: 'https://www.instagram.com/rcb_rai/'
         style: icon
@@ -52,12 +58,6 @@ params:
         url: 'https://twitter.com/arshrai_?lang=en'
         style: icon
         icon_class: fa-twitter
-        new_window: true
-      - type: action
-        label: GitHub
-        url: 'https://github.com/ArshRai17'
-        style: icon
-        icon_class: fa-github
         new_window: true
       - label: youtube
         url: 'https://www.youtube.com/channel/UCswslInf1qC9DJIcYkWSyRg/featured'
