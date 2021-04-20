@@ -65,7 +65,7 @@ params:
         style: icon
         icon_class: fa-dev
         new_window: true
-      - label: lorem-ipsum
+      - label: youtube
         url: lorem-ipsum
         style: link
         icon_class: fa-youtube
