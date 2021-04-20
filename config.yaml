@@ -36,16 +36,16 @@ params:
     has_social: true
     social_links:
       - type: action
-        label: Twitter
-        url: 'https://twitter.com/arshrai_?lang=en'
-        style: icon
-        icon_class: fa-twitter
-        new_window: true
-      - type: action
         label: Instagram
         url: 'https://www.instagram.com/rcb_rai/'
         style: icon
         icon_class: fa-instagram
+        new_window: true
+      - type: action
+        label: Twitter
+        url: 'https://twitter.com/arshrai_?lang=en'
+        style: icon
+        icon_class: fa-twitter
         new_window: true
       - type: action
         label: GitHub
