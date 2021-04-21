@@ -3,13 +3,13 @@ title: Music
 subtitle: 'Where my words fail, my music speaks'
 layout: page
 ---
-Music is food for my soul. Even when I am watching something on Netflix or just sitting musing over something, you will find me strumming something on my guitar. It's only when I am playing music, I am in a meditative state; I can let go of everything else and just play music and be in that moment. 
+Music is food for my soul. Even when I am watching something on Netflix or just sitting and musing over something, you will find me strumming something on my guitar. It's only when I am playing music, I am in a meditative state. I can let go of everything else and just play music and be in that moment.
 
 I grew u listening to an array of genres from rock to pop, blues and jazz, reggae, Nepali folk and contemporary music, Bollywood, and Indian Carnatic fusion. All the music I make is influenced by all the genres I love and bands I listen to. Growing up in a little town - my beautiful [Darjeeling](https://www.incredibleindia.org/content/incredibleindia/en/destinations/darjeeling.html) - where music is the heart-and-soul of every Darjeelingey, I was destined to pick up music as a serious hobby. Also, another reason why I am a passionate [Darjeeling tea](https://www.teaforte.com/teanotes/what-is-darjeeling-tea) sipper and a drinker! In Darjeeling, we love music so much that in every household you will find someone will be able to play one instrument or the other, and if they can play something, they will be a pretty good singer.
 
-As a teenager, I used to love hanging out with rock band members (friends and elder brothers); often mesmerized by their dexterity with their instruments. Back in the day, with the mediocre instruments and amplifiers, and rock musicians from Darjeeling used to blaze covers of Dream Theatre, Pink Floyd, Extreme, Iron Maiden, Megadeath, Rage Against the Machine, Led Zepplin, and so many more, and it used to sound so beautiful to my ears. I would sit there, just listening and admiring the grand musicians of Darjeeling. 
+As a teenager, I used to love hanging out with rock band members (friends and elder brothers); often mesmerized by their dexterity with their instruments. Back in the day, with the mediocre instruments and amplifiers, and rock musicians from Darjeeling used to blaze covers of Dream Theatre, Pink Floyd, Extreme, Iron Maiden, Megadeath, Rage Against the Machine, Led Zepplin, and so many more, and it used to sound so beautiful to my ears. I would sit there, just listening and admiring the grand musicians of Darjeeling.
 
-I used to sing during my junior school days and started playing guitar when I was in university, and I never stopped. I am finally writing some music and this is me sharing something I really love. 
+I used to sing during my junior school days and started playing guitar when I was in university, and I never stopped. I am finally writing some music and this is me sharing something I really love.
 
 Check out my compositions below:
 
