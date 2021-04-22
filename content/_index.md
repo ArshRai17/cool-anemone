@@ -10,20 +10,17 @@ sections:
   - type: section_content
     title: About
     section_id: about
-    content: >+
-      about me
+    content: >
+      # about me
 
 
-      I'm a content designer and writer based in Ottawa, Canada.
+      #### I'm a content designer and writer based in Ottawa, Canada.
 
 
       I enjoy collaborating with technical and business teams to simplify
       complex subject matter into simple and easy-to-understand communication
       materials. When I'm not writing (pushing pixels), you'll find me
-      composing, gardening, or drinking Darjeeling tea. 
-
-
-
+      composing, gardening, or drinking Darjeeling tea.
     actions:
       - type: action
         label: Contact Me
