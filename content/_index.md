@@ -10,15 +10,20 @@ sections:
   - type: section_content
     title: About
     section_id: about
-    content: >
-      I am a communications enthusiast who loves good design, technology, and
-      digital lifestyle. I strive to create products and services that help
-      people. I live by the principle that age is just a number and learning is
-      never-ending. I love to inspire and be inspired.
+    content: >+
+      about me
 
 
-      Other than learning new technologies and writing about them, I create
-      music and enjoying drinking Darjeeling tea. 
+      I'm a content designer and writer based in Ottawa, Canada.
+
+
+      I enjoy collaborating with technical and business teams to simplify
+      complex subject matter into simple and easy-to-understand communication
+      materials. When I'm not writing (pushing pixels), you'll find me
+      composing, gardening, or drinking Darjeeling tea. 
+
+
+
     actions:
       - type: action
         label: Contact Me
