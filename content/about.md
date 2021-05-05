@@ -7,7 +7,7 @@ layout: page
 ---
 I am a content developer based in [Ottawa](https://theplanetd.com/things-to-do-in-ottawa/).
 
-Over the last decade, I’ve:
+Over the last decade  (and more), I’ve:
 
 *   wrote and designed a wide variety of UX and technical content
 
@@ -23,4 +23,4 @@ I identify and understand the user and business needs, enjoy working with design
 
 > Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity. Charles Mingus
 
-Other than developing technical information for Solace PubSub+ products and managing the documentation portal, I am create <a>Music</a>.
+Other than developing technical information for Solace PubSub+ products and managing the documentation portal, I create [Music](youtube.com).
