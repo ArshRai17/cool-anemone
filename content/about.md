@@ -22,3 +22,5 @@ Over the last decade, I’ve:
 I identify and understand the user and business needs, enjoy working with designers and developers, and value the importance of communicating clearly and consistently using meaningful language.
 
 > Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity. Charles Mingus
+
+Other than developing technical information for Solace PubSub+ products and managing the documentation portal, I am learning Gatsby.
