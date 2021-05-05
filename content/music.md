@@ -3,7 +3,7 @@ title: Music
 subtitle: 'Where my words fail, my music speaks'
 layout: page
 ---
-Music is food for my soul. Even when I am binging on Netflix or just sitting and musing over something, you will find me strumming my guitar or humming a tune. It's only when I am playing music, I can let go of everything else and just be in that moment.
+Music is food for my soul. Even when I am binging on Netflix or just sitting and musing over something, you will find me strumming my guitar or humming a tune. 
 
 I grew u listening to an array of genres from rock to pop, blues and jazz, reggae, Nepali folk and contemporary music, Bollywood, and Indian Carnatic fusion.  Growing up in a little town - my beautiful [Darjeeling](https://www.incredibleindia.org/content/incredibleindia/en/destinations/darjeeling.html) - where music is the heart-and-soul of every Darjeelingey, I was destined to pick up music as a serious hobby. Also, another reason why I am a passionate [Darjeeling tea](https://www.teaforte.com/teanotes/what-is-darjeeling-tea) drinker!
 
