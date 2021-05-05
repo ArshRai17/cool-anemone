@@ -19,9 +19,6 @@ Over the last decade, I’ve:
 
 *   developed a deep interest in the different ways people discover and process information
 
-While I know you’ll be thrilled with the results, you’ll also really love how well we’ll work together.
-
 I identify and understand the user and business needs, enjoy working with designers and developers, and value the importance of communicating clearly and consistently using meaningful language.
 
 > Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity. Charles Mingus
-
