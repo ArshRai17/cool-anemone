@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: A bit about me (and you)
+subtitle: A bit about me
 img_path: /images/20180722_010953.jpg
 img_alt: Portrait of a man with beard and mustache
 layout: page
