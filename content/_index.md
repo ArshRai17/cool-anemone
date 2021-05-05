@@ -18,9 +18,9 @@ sections:
 
 
       I enjoy collaborating with technical and business teams to simplify
-      complex subject matter into simple and easy-to-understand communication
-      materials. When I'm not writing (pushing pixels), you'll find me
-      composing, gardening, or drinking Darjeeling tea.
+      complex information into simple, well-structured, and easy-to-understand
+      communication. When I'm not writing or learning new technologies, you'll
+      find me recording music, gardening, or drinking Darjeeling tea.
     actions:
       - type: action
         label: Contact Me
