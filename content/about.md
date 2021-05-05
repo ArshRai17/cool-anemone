@@ -23,4 +23,4 @@ I identify and understand the user and business needs, enjoy working with design
 
 > Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity. Charles Mingus
 
-Other than developing technical information for Solace PubSub+ products and managing the documentation portal, I am learning Gatsby.
+Other than developing technical information for Solace PubSub+ products and managing the documentation portal, I am create Music.
