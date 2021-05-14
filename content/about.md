@@ -9,7 +9,9 @@ I am a content developer based in [Ottawa](https://theplanetd.com/things-to-do-i
 
 Over the last decade  (and more), I’ve:
 
-*   wrote and designed a wide variety of UX and technical content
+*   developed a deep interest in the different ways people discover and process information
+
+*   wrote and designed a wide variety of GUI and CLI based technical content
 
 *   developed and managed information architecture (IA) for several technical documentation
 
@@ -17,10 +19,8 @@ Over the last decade  (and more), I’ve:
 
 *   enjoyed working with some of the smartest individuals in the information and technology sector, and
 
-*   developed a deep interest in the different ways people discover and process information
-
 I identify and understand the user and business needs, enjoy working with designers and developers, and value the importance of communicating clearly and consistently using meaningful language. Whether you need to update your existing communication materials or you need someone to research, design, and write new content—I can help.
 
 > Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity. Charles Mingus
 
-Other than developing technical information for Solace PubSub+ products and managing the documentation portal, I create [Music](https://www.instagram.com/rcb_rai/).
+Other than developing technical information for [Solace PubSub+ products](https://solace.com/products/platform/), I create [Music](https://www.instagram.com/rcb_rai/).
