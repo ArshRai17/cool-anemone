@@ -23,7 +23,7 @@ Nirdaye (vocals)
 
 ## Quoting
 
-> It's only when I am playing my guitar or singing, I can let go of everything else and just be in that moment.
+> It's only when I am playing an instrument or singing, I can let go of everything else and just be in that moment.
 >
 > <cite>Arsh Rai</cite>
 
