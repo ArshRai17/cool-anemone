@@ -14,7 +14,7 @@ sections:
       # about me
 
 
-      #### I'm a content designer and writer based in Ottawa, Canada.
+      #### I'm a content designer and UX writer based in Ottawa, Canada.
 
 
       I enjoy collaborating with technical and business teams to simplify
