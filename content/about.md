@@ -5,13 +5,15 @@ img_path: /images/20180722_010953.jpg
 img_alt: Portrait of a man with beard and mustache
 layout: page
 ---
-I am a content developer based in [Ottawa](https://theplanetd.com/things-to-do-in-ottawa/).
+I am a content designer and UX writer based in [Ottawa](https://theplanetd.com/things-to-do-in-ottawa/).
 
 Over the last decade  (and more), I’ve:
 
 *   developed a deep interest in the different ways people discover and process information
 
 *   wrote and designed a wide variety of GUI and CLI based technical content
+
+*   reviewed and wrote several user interface (UI) texts
 
 *   developed and managed information architecture (IA) for several technical documentation
 
