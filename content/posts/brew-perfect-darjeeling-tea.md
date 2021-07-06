@@ -8,15 +8,13 @@ excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 layout: post
 ---
-> Life is too short to drink bad tea!
-
 There are a few things in my life that I cannot live without, and Darjeeling tea is one of those delights.
 
 The process of brewing a perfect cup of Darjeeling tea is simple, as long as you have the right tools. You will need:
 
 *   Second flush Darjeeling tea (Sorry, I only drink the second flush!)
 
-*   Temperature control kettle or a thermometer. I use Cusintart's 
+*   Temperature control kettle or a thermometer. I use Cusintart's
 
 *   Teaspoon
 
@@ -35,8 +33,3 @@ Alright, let's brew some tea.
 There is no right or wrong temperature
 
 With filter water in the fellt, boil the it as between
-
-
-
-
-
