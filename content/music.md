@@ -17,8 +17,6 @@ The music I create is is influenced by everything around me. I hope that you wil
 
 <hr />
 
-
-
-### Check out my compositions below:&#xA;
+#### Check out my compositions below:&#xA;
 
 Yo Bato
