@@ -53,12 +53,6 @@ params:
         style: icon
         icon_class: fa-instagram
         new_window: true
-      - type: action
-        label: Twitter
-        url: 'https://twitter.com/arshrai_?lang=en'
-        style: icon
-        icon_class: fa-twitter
-        new_window: true
       - label: youtube
         url: 'https://www.youtube.com/channel/UCswslInf1qC9DJIcYkWSyRg/featured'
         style: icon
@@ -66,6 +60,12 @@ params:
         new_window: false
         no_follow: false
         type: action
+      - type: action
+        label: Twitter
+        url: 'https://twitter.com/arshrai_?lang=en'
+        style: icon
+        icon_class: fa-twitter
+        new_window: true
   footer:
     type: footer
     content: >-
