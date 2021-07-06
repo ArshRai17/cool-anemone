@@ -18,3 +18,5 @@ The music I create is is influenced by everything around me. I hope that you wil
 #### Check out my compositions below:&#xA;
 
 Yo Bato
+
+Santa is Coming (with a bag full of vaccines) - Wrote this song as part of Solace's annual celebration.
