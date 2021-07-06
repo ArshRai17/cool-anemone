@@ -1,5 +1,5 @@
 ---
-title: Basic Rules For Walking In The Mountains
+title: I am a father now
 date: '2018-01-09'
 thumb_img_path: images/6.jpg
 thumb_img_alt: Hikers on the trail
