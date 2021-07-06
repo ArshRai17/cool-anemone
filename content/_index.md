@@ -6,7 +6,7 @@ sections:
     title: 'Hi, I''m Arsh Rai.'
     section_id: hero
     content: |
-      I am a content designer, UX writer,  and music enthusiast.
+      Content designer, UX writer,  and music enthusiast.
   - type: section_content
     title: About
     section_id: about
