@@ -8,9 +8,35 @@ excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 layout: post
 ---
-## Lorem ipsum
+> Life is too short to drink bad tea!
 
 There are a few things in my life that I cannot live without, and Darjeeling tea is one of those delights.
 
-*   Lorem ipsum
-*   dolor sit amet
+The process of brewing a perfect cup of Darjeeling tea is simple, as long as you have the right tools. You will need:
+
+*   Second flush Darjeeling tea (Sorry, I only drink the second flush!)
+
+*   Temperature control kettle or a thermometer. I use Cusintart's 
+
+*   Teaspoon
+
+*   Tea Port
+
+*   Teacup
+
+*   Teapot with an infuser or a separate infuser for your cup. You can also use a regular teapot and use a tea strainer while serving.
+
+*   Filtered water
+
+Alright, let's brew some tea.
+
+## Step 1: Boil filtered water
+
+There is no right or wrong temperature
+
+With filter water in the fellt, boil the it as between
+
+
+
+
+
