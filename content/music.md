@@ -5,21 +5,9 @@ layout: page
 ---
 Music is food for my soul. Even when I am binging on Netflix or just sitting and musing over something, you will find me strumming my guitar or humming a tune.
 
-I grew u listening to an array of genres from rock to pop, blues and jazz, reggae, Nepali folk and contemporary music, Bollywood, and Indian Carnatic fusion.  Growing up in a little town - beautiful [Darjeeling](https://www.incredibleindia.org/content/incredibleindia/en/destinations/darjeeling.html) - music was (still is) is the heart and soul of the town.  Imagine a town with Oxford library, British-style cottages, tea gardens, only baker within miles easy, and ardid fans of The Beatles.
+I grew u listening to an array of genres from rock to pop, blues and jazz, reggae, Nepali folk, Bollywood, and Indian Carnatic fusion.  Growing up in a little town - beautiful [Darjeeling](https://www.incredibleindia.org/content/incredibleindia/en/destinations/darjeeling.html) - music was (still is) is the heart and soul of Darjeelingeys.  Imagine a town with Oxford library, British-style cottages, tea gardens, only baker within miles easy, and did fans of The Beatles.
 
 The music I create is is influenced by everything around me. I hope that you will find something of interest in it.
-
-Check out my compositions below:
-
-You Bato
-
-Reminds me of Tuscany!
-
-Kathak
-
-Sinking in Love
-
-Nirdaye (vocals)
 
 ## Quoting
 
@@ -29,40 +17,8 @@ Nirdaye (vocals)
 
 <hr />
 
-## Code Blocks
 
-Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
 
-    <!-- Some example CSS code -->
-    body {
-      color: #333;
-      font-family: Roboto, Helvetica, Arial, sans-serif;
-      line-height: 1.5;
-    }
+### Check out my compositions below:&#xA;
 
-## Tables
-
-<div class="responsive-table">
-  <table>
-    <caption>Simple table with caption and header</caption>
-    <thead>
-      <tr>
-        <th>Column 1</th>
-        <th>Column 2</th>
-        <th>Column 3</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Row 1, Cell 1</td>
-        <td>Row 1, Cell 2</td>
-        <td>Row 1, Cell 3</td>
-      </tr>
-      <tr>
-        <td>Row 2, Cell 1</td>
-        <td>Row 2, Cell 2</td>
-        <td>Row 2, Cell 3</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+Yo Bato
