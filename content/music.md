@@ -9,8 +9,6 @@ I grew u listening to an array of genres from rock to pop, blues and jazz, regga
 
 The music I create is is influenced by everything around me. I hope that you will find something of interest in it.
 
-## Quoting
-
 > It's only when I am playing an instrument or singing, I can let go of everything else and just be in that moment.
 >
 > <cite>Arsh Rai</cite>
