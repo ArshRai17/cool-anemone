@@ -9,12 +9,9 @@ I try to combine funk, blues, jazz, and rock with Nepali folk and contemporary m
 
 > It's only when I am playing an instrument or singing, I can let go of everything else and just be in that moment.
 >
-> <cite></cite>
-
-
+> <cite>aRsh</cite>
 
 I was born and brought up in [Darjeeling](https://www.incredibleindia.org/content/incredibleindia/en/destinations/darjeeling.html), a picturesque town nestled in the foothills of the Himalayas, where music is an integral part of its people and culture. From my early days, I was part of the school choir and regularly participated in various musical plays. Even in classrooms, my friends would always find him singing or humming tunes. I didn't play any instrument at that time but loved singing and listening to music. I would often walk to school instead of taking a taxi and saved my lunch money to buy cassettes. Yes, those ancient things where people recorded music. I would then create mixtapes of my favourite songs and blasted them loudly in my room or my walkman if I was out-and-about.
-
 
 Later in Grad school, I deeply influenced by Darjeeling's local music scene, where bands playing a broad genre of music - rock, jazz, blues, funk, and folk. It was at this time that I started learning guitar. My first guitar was an acoustic Hofner that my mother got for me. I would sit outside in the sun and play for hours until my fingers hurt, or I would be in my room learning all day. In those days, using your ears was the only way to learn a song; I would spend hours rewinding and forwarding cassettes to understand a specific part of a song. The first song I learnt was The Temple of the King by Rainbow.  
 
