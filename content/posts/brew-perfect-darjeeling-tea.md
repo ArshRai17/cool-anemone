@@ -12,9 +12,13 @@ excerpt: >-
 thumb_img_path: /images/tea-darjeeling.jpg
 content_img_path: /images/tea-darjeeling.jpg
 ---
+Photo was taken at Cha Yi tea house.
+
+
+
 There are a few things in my life that I cannot live without, and Darjeeling tea is one of those delights.
 
-The process of brewing a perfect cup of Darjeeling tea is simple, as long as you have the right tools. 
+The process of brewing a perfect cup of Darjeeling tea is simple, as long as you have the right tools.
 
 You will need:
 
@@ -22,7 +26,7 @@ You will need:
 
 *   Temperature control kettle or a thermometer. I use [Cusintart's programmable kettle](https://www.amazon.ca/Cuisinart-CPK-17C-Programmable-Kettle/dp/B003WEAHUY/ref=asc_df_B003WEAHUY/?tag=googleshopc0c-20\&linkCode=df0\&hvadid=292943077607\&hvpos=\&hvnetw=g\&hvrand=11471943400949287925\&hvpone=\&hvptwo=\&hvqmt=\&hvdev=c\&hvdvcmdl=\&hvlocint=\&hvlocphy=9000686\&hvtargid=pla-305919859109\&psc=1) and I love it!
 
-*   Teaspoon. 
+*   Teaspoon.
 
 *   Teacup
 
