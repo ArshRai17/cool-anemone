@@ -3,7 +3,7 @@ title: Yo Bato
 date: '2019-03-27'
 thumb_img_alt: Yo Bato Song Artwork
 content_img_path: /images/best-mars.jpg
-content_img_alt: Icelandic horses
+content_img_alt: Yo Bato Artwork
 layout: post
 excerpt: >-
   We get caught up with so many things in life - career, finances, society,
