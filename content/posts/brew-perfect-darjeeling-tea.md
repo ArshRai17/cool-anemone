@@ -9,6 +9,7 @@ layout: post
 excerpt: >-
   There are a few things in my life that I cannot live without, and Darjeeling
   tea is one of those delights.
+thumb_img_path: /images/tea.jpg
 ---
 There are a few things in my life that I cannot live without, and Darjeeling tea is one of those delights.
 
