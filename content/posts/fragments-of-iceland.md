@@ -6,9 +6,9 @@ thumb_img_alt: Icelandic horses
 content_img_path: images/7.jpg
 content_img_alt: Icelandic horses
 excerpt: >-
-  Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
-  making it the most sparsely populated country in Europe.
+  We get caught up with so many things in life - career, finances, society,
+  status, ambitions, and so on - that we forget to appreciate the simplest
+  things that often give us the greatest joy and satisfaction.
 layout: post
 ---
 Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)
