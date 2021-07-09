@@ -11,8 +11,6 @@ excerpt: >-
   things that often give us the greatest joy and satisfaction.
 thumb_img_path: /images/artwork-yo-bato.jpg
 ---
-Photo from [Pixabay.com](https://pixabay.com/).
-
 "Yo Bato" (This Road) is an ode to life, a journey with many milestones to reach and explore. aRsh traverses through groovy drum beats and punchy basslines to create a funky tune for a song with such profound depth to it. 
 
 aRsh explores new ideas musically and lyrically in "Yo Bato." The song starts with a deep a d steady bass and upbeat drum beats, gradually blending vocal harmonies, rhythm guitar, piano, and organ without straying in one definitive genre. "Yo Bato" is a rendition that immerses its listener in a soundscape.
