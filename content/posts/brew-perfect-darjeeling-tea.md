@@ -6,6 +6,9 @@ thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 canonical_url: lorem-ipsum
 layout: post
+excerpt: >-
+  There are a few things in my life that I cannot live without, and Darjeeling
+  tea is one of those delights.
 ---
 There are a few things in my life that I cannot live without, and Darjeeling tea is one of those delights.
 
