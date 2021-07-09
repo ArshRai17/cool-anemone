@@ -5,7 +5,7 @@ layout: page
 ---
 Music is food for my soul. Even when I am binging on Netflix or just sitting and musing over something, you will find me strumming my guitar or humming a tune.
 
-I try to combine funk, blues, jazz, and rock with Nepali folk and contemporary music. In February 2021, he released his first single, Yo Bato—a Nepali funk number that's filled with swanky bass lines, vocal harmonies, and punchy rhythm guitar. In his upcoming project, he wants to compose music that gives a fresh perspective to things we often ponder over. 
+I try to combine funk, blues, jazz, and rock with Nepali folk and contemporary music. In February 2021, he released his first single, Yo Bato—a Nepali funk number that's filled with swanky bass lines, vocal harmonies, and punchy rhythm guitar. In his upcoming project, he wants to compose music that gives a fresh perspective to things we often ponder over. Check out my compositions.
 
 > It's only when I am playing an instrument or singing, I can let go of everything else and just be in that moment.
 >
