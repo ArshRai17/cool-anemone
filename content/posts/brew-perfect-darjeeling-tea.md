@@ -12,7 +12,7 @@ excerpt: >-
 thumb_img_path: /images/tea-darjeeling.jpg
 content_img_path: /images/tea-darjeeling.jpg
 ---
-Photo was taken at [Cha Yi tea house.
+Photo was taken at [Cha Yi tea house](https://shop.chayi.ca/).
 
 
 
