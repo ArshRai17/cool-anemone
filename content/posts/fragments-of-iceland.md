@@ -1,7 +1,7 @@
 ---
 title: Yo Bato
 date: '2019-03-27'
-thumb_img_alt: Yo Bato Artwork
+thumb_img_alt: Yo Bato Song Artwork
 content_img_path: images/7.jpg
 content_img_alt: Icelandic horses
 layout: post
