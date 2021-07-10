@@ -38,15 +38,15 @@ Alright, let's brew some tea.
 
 ## Step 1: Boil filtered water
 
-The best way to get the right temperate is to try a few settings, I like my tea at 200 degrees Fahrenheit.  I have a friend, who also loves Darjeeling tea and he enjoys it at 190 degrees Fahrenheit. So you have to play around with the temperature to find the right fit for your taste. However, I think, anything above 200 degrees Fahrenheit will burn the leaves.
+The best way to get the right temperate is to try a few settings, I like my tea at 200 degrees Fahrenheit.  I have a friend, who also loves Darjeeling tea and he enjoys it at 190 degrees Fahrenheit. So, you have to play around with the temperature to find the right fit for your taste. However, I think, anything above 200 degrees Fahrenheit will burn the leaves.
 
 ## Step 2: Scoop and measure your tea leaves
 
-While the water is boiling, get your tea leaves ready. If you are brewing a cup of tea, scoop out one and half a teaspoon of your favourite second flush (it's probably time for the first flush too).  Again, you may want to try out different amounts, but one and a half teaspoons per cup works out quite well for me. If you're brewing the tea in a pot, use the same measurement - one and a half teaspoons per cup.
+While the water is boiling, get your tea leaves ready. If you are brewing a cup of tea, scoop out one and half a teaspoon of your favourite second flush (or first flush).  Again, you may want to try out different amounts, but one and a half teaspoons per cup work out quite well for me. If you're brewing the tea in a pot, use the same measurement - one and a half teaspoons per a cup of water.
 
 ## Step 3: Carefully pour the boiled water into your cup/pot
 
-Pour the boiled water into your cup or pot and let it brew for four minutes. Once again, brew-time for your tea depends on whether you like your tea strong or light. I like my tea a bit strong; it brings out the muscatel flavour and a nice after taste, so I brew my tea between four to five minutes. My best advice is to sip your tea as it brews until you get the flavour you like. However, brewing longer than five minutes will potentially create some bitterness.
+Pour the boiled water into your cup or pot and let it brew for four minutes. Once again, brew-time for your tea depends on whether you like your tea strong or light. I like my tea a bit strong. It brings out the muscatel flavour and a nice after-taste, so I brew my tea between four to five minutes. My best advice is to sip your tea as it brews until you get the flavour you like. However, brewing longer than five minutes will potentially create some bitterness.
 
 ## Step 4: Let it rest
 
