@@ -5,7 +5,7 @@ thumb_img_alt: Yo Bato Song Artwork
 content_img_path: /images/good-mustard.jpg
 content_img_alt: Yo Bato Artwork
 layout: post
-excerpt: 'Press Release of aRsh''s debut single, Yo Bato.'
+excerpt: 'Press Release for aRsh''s debut single, Yo Bato.'
 thumb_img_path: /images/artwork-yo-bato.jpg
 ---
 ***aRsh's debut single 'Yo Bato' *****explores new ideas musically and lyrically**
