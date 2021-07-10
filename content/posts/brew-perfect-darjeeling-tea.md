@@ -12,11 +12,9 @@ excerpt: >-
 thumb_img_path: /images/tea-darjeeling.jpg
 content_img_path: /images/tea-darjeeling.jpg
 ---
-Photo was taken at [Cha Yi tea house.](https://shop.chayi.ca/)
+I took this photo was taken at [Cha Yi tea house.](https://shop.chayi.ca/)
 
-There are a few things in my life that I cannot live without, and Darjeeling tea is one of those delights.
-
-The process of brewing a perfect cup of Darjeeling tea is simple, but you will need a few things.
+There are a few things in my life that I cannot live without, and Darjeeling tea is one of those delights. The process of brewing a perfect cup of Darjeeling tea is simple, but you will need a few things.
 
 You will need:
 
