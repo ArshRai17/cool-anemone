@@ -5,10 +5,7 @@ thumb_img_alt: Yo Bato Song Artwork
 content_img_path: /images/good-mustard.jpg
 content_img_alt: Yo Bato Artwork
 layout: post
-excerpt: >-
-  We get caught up with so many things in life - career, finances, society,
-  status, ambitions, and so on - that we forget to appreciate the simplest
-  things that often give us the greatest joy and satisfaction.
+excerpt: 'Press Release of aRsh''s debut sinple, Yo Bato.'
 thumb_img_path: /images/artwork-yo-bato.jpg
 ---
 ***aRsh's debut single 'Yo Bato' *****explores new ideas musically and lyrically**
