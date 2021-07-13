@@ -3,7 +3,7 @@ title: Music
 subtitle: 'Where my words fail, my music speaks'
 layout: page
 ---
-As an introspective singer-composer, I love a little quirk. I try to combine funk, blues, jazz, and rock with mellow Nepali folk and contemporary music. In February 2021, I released his first single, Yo Bato—a Nepali funk number with swanky bass lines, vocal harmonies, and punchy rhythm guitar. I love to compose music that gives a fresh perspective to listeners and an impression to ponder over.
+As an introspective singer-composer, I love a little quirk. I try to combine funk, blues, jazz, and rock with mellow Nepali folk and contemporary music. In February 2021, I released his first single, Yo Bato—a Nepali funk number with swanky bass lines, vocal harmonies, and punchy rhythm guitar. I love to compose music that gives a fresh perspective to listeners and an impression to ponder over.  If ryou ather prefer listening to my songs first and reading the bio later, go ahead and check out my compositions.
 
 > It's only when I am playing an instrument or singing, I can let go of everything else and just be in that moment.
 >
@@ -15,7 +15,7 @@ During my university days, I had certain interest in guitar. My first guitar was
 
 In the late 90s and early 2000, blues, jazz, and funk were at the forefront of Darjeeling's music scene. Not surprisingly, my taste in music also transitioned to artists like  George Benson, Jaco Pastorius, Al Jarreau, John Scofield, Miles Davis, Dennis Chambers, Jamiroquai, La Chic, Funkadelic, Tower of Power, Incognito, Charlie Hunter, and DAngelo, to name a few.
 
-I moved to New Zealand (NZ) in 2007, where reggae music caught my fancy. New Zealanders love reggae, and bands like Fat Freddy’s Drop, Trinity Roots, Kora, The Black Seeds, Katchafire, and Salmonella Dub were creating some fantastic music. There is a significant influence of NZ music in my upcoming song “Sinking in Love.” 
+I moved to New Zealand (NZ) in 2007, where reggae music caught my fancy. New Zealanders love reggae, and bands like Fat Freddy’s Drop, Trinity Roots, Kora, The Black Seeds, Katchafire, and Salmonella Dub were creating some fantastic music. There is a significant influence of NZ music in my upcoming song “Sinking in Love.”
 
 I had been sketching many ideas for songs but never really had a chance to explore them further. After an extended lockdown in Canada and working from home, I could squeeze in time for music. Exploring the theme of “YO BATO” was a big step for me. COVID came as a blessing in disguise as I had more time in hand, which I diligently used to record music. 
 
