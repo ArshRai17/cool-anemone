@@ -12,23 +12,23 @@ excerpt: >-
 thumb_img_path: /images/tea-darjeeling.jpg
 content_img_path: /images/tea-darjeeling.jpg
 ---
-I took this photo was taken at [Cha Yi tea house.](https://shop.chayi.ca/)
+Captured this image at [Cha Yi tea house.](https://shop.chayi.ca/)
 
 There are a few things in my life that I cannot live without, and Darjeeling tea is one of those delights. The process of brewing a perfect cup of Darjeeling tea is simple, but you will need a few things.
 
 You will need:
 
-*   Second or first  flush Darjeeling tea I only drink the second flush!)
+*   Second or first flush Darjeeling tea. I only drink the second flush!
 
-*   Temperature control kettle or a thermometer. I use [Cusintart's programmable kettle](https://www.amazon.ca/Cuisinart-CPK-17C-Programmable-Kettle/dp/B003WEAHUY/ref=asc_df_B003WEAHUY/?tag=googleshopc0c-20\&linkCode=df0\&hvadid=292943077607\&hvpos=\&hvnetw=g\&hvrand=11471943400949287925\&hvpone=\&hvptwo=\&hvqmt=\&hvdev=c\&hvdvcmdl=\&hvlocint=\&hvlocphy=9000686\&hvtargid=pla-305919859109\&psc=1) and I love it!
+*   Temperature control kettle or a thermometer. I use [Cusintart's programmable kettle](https://www.amazon.ca/gp/product/B003WEAHUY/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B003WEAHUY\&linkId=dc2f5a7b1d05c5d6f7c093b884592e2f) and I love it!
 
-*   Teaspoon.
+*   Teaspoon. You can [buy a nice one from Amazon](https://www.amazon.ca/gp/product/B074L4MZRY/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B074L4MZRY\&linkId=3e915dd2da8deeeefa237435acfa3be8).
 
-*   Teacup
+*   Teacup. I love to see my tea color, so [I love these teacups](https://www.amazon.ca/gp/product/B078PFY9RV/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B078PFY9RV\&linkId=2156758695fede503f84a7908f787bf5) for everyday use.
 
-*   Teapot with an infuser or a separate infuser for your cup. You can also use a regular teapot and strain the tea before serving
+*   Teapot with an infuser or a separate infuser for your cup. You can also use a regular teapot and strain the tea before serving. [This teapot is perfect for two cups.](https://www.amazon.ca/gp/product/B07KXSDQ9G/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B07KXSDQ9G\&linkId=7cb182cbaa75ecea6ddc78c34583f37b)
 
-*   Tea infuser if you are brewing one cup
+*   [Tea infuser](https://www.amazon.ca/gp/product/B082HGWPFV/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B082HGWPFV\&linkId=aefb538fad7306adf13ea05ab128659b) if you are brewing one cup. 
 
 *   Filtered water. The chlorine in the tap water spoils the flavour.
 
@@ -42,11 +42,11 @@ The best way to get the right temperate is to try a few settings, I like my tea 
 
 ## Step 2: Scoop and measure your tea leaves
 
-While the water is boiling, get your tea leaves ready. If you are brewing a cup of tea, scoop out one and half a teaspoon of your favourite second flush (or first flush).  Again, you may want to try out different amounts, but one and a half teaspoons per cup work out quite well for me. If you're brewing the tea in a pot, use the same measurement - one and a half teaspoons per a cup of water.
+While the water is boiling, get your tea leaves ready. If you are brewing a cup of tea, scoop out one and half a teaspoon of your favourite second flush (or first flush).  Again, you may want to try out different amounts, but one and a half teaspoons per cup work out quite well for me. [I use this teaspoon](https://www.amazon.ca/gp/product/B074L4MZRY/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B074L4MZRY\&linkId=3e915dd2da8deeeefa237435acfa3be8).  If you're brewing the tea in a pot, use the same measurement - one and a half teaspoons per cup.
 
 ## Step 3: Carefully pour the boiled water into your cup/pot
 
-Pour the boiled water into your cup or pot and let it brew for four minutes. Once again, brew-time for your tea depends on whether you like your tea strong or light. I like my tea a bit strong. It brings out the muscatel flavour and a nice after-taste, so I brew my tea between four to five minutes. My best advice is to sip your tea as it brews until you get the flavour you like. However, brewing longer than five minutes will potentially create some bitterness.
+Pour the boiled water into your cup or pot and let it brew for four minutes. Once again, brew-time for your tea depends on whether you like your tea strong or light. I like my tea strong; it brings out the muscatel flavour and a nice after-taste. I brew my tea between four to five minutes. My best advice is to sip your tea as it brews until you get the flavour you like. However, brewing longer than five minutes will potentially create some bitterness.
 
 ## Step 4: Let it rest
 
