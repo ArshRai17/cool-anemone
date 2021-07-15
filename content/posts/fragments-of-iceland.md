@@ -5,7 +5,7 @@ thumb_img_alt: Yo Bato Song Artwork
 content_img_path: /images/good-mustard.jpg
 content_img_alt: Yo Bato Artwork
 layout: post
-excerpt: 'Press Release for Arsh Rai''s debut single, Yo Bato.'
+excerpt: 'Press Release of Arsh Rai''s debut single, Yo Bato.'
 thumb_img_path: /images/artwork-yo-bato.jpg
 ---
 *Ottawa, Ontario*—Yo Bato" (This Road) is an ode to life, a journey with many milestones to reach and explore. Arsh traverses through groovy drum beats, punchy basslines, and melody vocal harmonies, exploring new ideas musically and lyrically. “Yo Bato" is a rendition that immerses its listener in a soundscape.
