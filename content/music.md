@@ -21,7 +21,7 @@ I had been sketching many ideas for songs but never really had a chance to explo
 
 I am currently working on recording a few songs that I had roughly written years ago. I am also singing a few songs for Phil Rai, due to be released soon and playing guitar for a local Ottawa-based band called Rodhi Blues. I am based in Ottawa and record music in my home studio.
 
-#### Check out my compositions below:
+#### <a name="songs"></a>Check out my compositions below:
 
 *   Yo Bato
 
