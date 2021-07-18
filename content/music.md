@@ -29,4 +29,4 @@ I am currently working on recording a few songs that I had roughly written years
 
 *   Eh Nani!
 
-*   Santa is Coming (with a bag full of vaccines) - Wrote this song as part of Solace's annual celebration.
+*   Santa is Coming (with a bag full of vaccines) - Wrote this roughly mixed song as part of Solace's annual celebration.
