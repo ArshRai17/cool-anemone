@@ -5,7 +5,7 @@ layout: page
 ---
 As an introspective singer-composer, I love a little quirk. I try to combine funk, blues, jazz, and rock with mellow Nepali folk and contemporary music. In February 2021, I released his first single, Yo Bato—a Nepali funk number with swanky bass lines, vocal harmonies, and punchy rhythm guitar. I love to compose music that gives a fresh perspective to listeners and an impression to ponder over.  
 
-If you prefer listening to my songs first and reading the bio later, go ahead and check out my [compositions](#songs).
+If you prefer listening to my songs first and reading rest of the bio later, go ahead and check out my [compositions](#songs).
 
 > It's only when I am playing an instrument or singing, I can let go of everything else and just be in that moment.
 >
