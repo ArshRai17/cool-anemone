@@ -17,7 +17,7 @@ Walking to school instead of taking a cab and saving up my lunch money to buy ca
 
 During my university days, I had certain interest in guitar. My first guitar was an acoustic Hofner, which my mother got for me. I would sit outside in the sun and practice for hours until my fingers hurt, or I would be in my room learning all day. Learning to play guitar with limited resources was complicated. It was all about listening and learning to play, spending endless hours looping my cassettes to understand a specific part of a song. Now when I look back, everything seems worthwhile. 
 
-In the late 90s and early 2000, blues, jazz, and funk were at the forefront of Darjeeling's music scene. Not surprisingly, my taste in music also transitioned to artists like  George Benson, Jaco Pastorius, Al Jarreau, John Scofield, Miles Davis, Dennis Chambers, Jamiroquai, La Chic, Funkadelic, Tower of Power,  to name a few.
+In the late 90s and early 2000, blues, jazz, and funk were at the forefront of Darjeeling's music scene. Not surprisingly, my taste in music also transitioned to artists like  George Benson, Jaco Pastorius, Al Jarreau, John Scofield, Miles Davis, Dennis Chambers, Jamiroquai, La Chic, Funkadelic, and Charlie Hunter to name a few.
 
 I moved to New Zealand (NZ) in 2007, where reggae music caught my fancy. New Zealanders love reggae, and bands like Fat Freddy’s Drop, Trinity Roots, Kora, The Black Seeds, Katchafire, and Salmonella Dub were creating some fantastic music. There is a significant influence of NZ music in my upcoming song “Sinking in Love.”
 
