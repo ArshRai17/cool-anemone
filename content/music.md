@@ -7,7 +7,7 @@ layout: page
 ---
 As an introspective singer-composer, I love a little quirk. I try to combine funk, blues, jazz, and rock with mellow Nepali folk and contemporary music. In February 2021, I released my first single, Yo Bato—a Nepali funk number with swanky bass lines, vocal harmonies, and punchy rhythm guitar. I love to compose music that gives a fresh perspective to listeners and an impression to ponder over.
 
-If you prefer listening to my songs first and reading the rest of the bio later, go ahead and check out my [songs](#songs).
+If you prefer listening to the songs first and reading the rest of the bio later, go ahead and check out my [songs](#songs).
 
 I was born and brought up in Darjeeling, a picturesque town nestled in the foothills of the Himalayas; a town where music is an integral part of its people and culture. In my early days, I was drawn to rock and metal music and grew up listening to bands like Extreme, Dream Theatre, Europe, Mr. Big, Gary Moore, Audioslave, RATM and RHCP, to name a few. We are talking about the 90s and mixtapes here. Walking to school instead of taking a cab and saving up my lunch money to buy cassettes of these bands was something I did routinely. I would then create mixtapes of my favourite songs and listen to them loud in my room or my walkman. From a small-town boy mixing tapes, I am now making my own music, taking inspiration from the bands that I listened to growing up, but still rooted in my background.
 
