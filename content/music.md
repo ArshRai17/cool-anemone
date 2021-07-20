@@ -17,7 +17,7 @@ In the late 90s and early 2000, blues, jazz, and funk were at the forefront of D
 
 I had been sketching many ideas for songs but never really had a chance to explore them further. After an extended lockdown in Canada and working from home, I could squeeze in time for music and exploring the theme for “YO BATO” was a big step for me. I am currently working on recording a few more songs that I had roughly written years ago. I am also singing a few songs for Phil Rai, due to be released soon this year and playing guitar for a local Ottawa-based band called Rodhi Blues. I am based in Ottawa and record music in my home studio.
 
-#### <a name="songs"></a>Check out my compositions below:
+### <a name="songs"></a>
 
 *   Yo Bato
 
