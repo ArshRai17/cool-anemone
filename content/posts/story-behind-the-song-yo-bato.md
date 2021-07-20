@@ -2,7 +2,7 @@
 title: Yo Bato
 date: '2019-03-27'
 thumb_img_alt: Yo Bato Song Artwork
-content_img_path: /images/good-mustard.jpg
+content_img_path: /images/Artwork.jpg
 content_img_alt: Yo Bato Artwork
 layout: post
 excerpt: 'Story behind Arsh''s debut single, Yo Bato.'
