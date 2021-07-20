@@ -42,7 +42,7 @@ The best way to get the right temperate is to try a few settings and find the ri
 
 ## Step 2: Scoop and measure your tea leaves
 
-While the water is boiling, get your tea leaves ready. If you are brewing a cup of tea, scoop out one and half a teaspoon of your favourite second flush (or first flush).  Again, you may want to try out different amounts, but one and a half teaspoons per cup work out quite well for me. [I use this teaspoon](https://www.amazon.ca/gp/product/B074L4MZRY/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B074L4MZRY\&linkId=3e915dd2da8deeeefa237435acfa3be8).  If you're brewing the tea in a pot, use the same measurement - one and a half teaspoons per cup.
+While the water is boiling, get your tea leaves ready. If you are brewing a cup of tea, scoop out one and half a teaspoon of your favourite second flush (or first flush).  Again, you may want to try out different amounts, but one and a half teaspoons per cup works out well. [I use this teaspoon](https://www.amazon.ca/gp/product/B074L4MZRY/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B074L4MZRY\&linkId=3e915dd2da8deeeefa237435acfa3be8).  If you're brewing the tea in a pot, use the same measurement - one and a half teaspoons per cup.
 
 ## Step 3: Carefully pour the boiled water into your cup/pot
 
