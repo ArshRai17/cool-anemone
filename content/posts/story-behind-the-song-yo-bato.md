@@ -18,7 +18,7 @@ The story behind the lyrics is finding purpose in the journey of life and living
 
 Yo Bato was recorded in his make-do home studio and mixed and mastered by [Oliver Wagner](https://www.facebook.com/soundtheorylab). Arsh loves to take feedback from family, friends, and especially his friend/mentor, [Phil Rai](https://www.instagram.com/philraiz/). It all came together with their love and support. Arsh is collaborating with Phil Rai on other songs, which will be released sometime this year. Arsh hopes to create more music, venture out new possibilities and captivate listeners with finely layered music, graceful rhythms in the timeless musical tradition of his Himalayan roots and a musical connection that makes his music unique.
 
-*For more information, promo requests, or to arrange an interview, [contact Arsh](/contact.md).*
+*For more information, promo requests, or to arrange an interview, [contact Arsh](contact.md).*
 
 *Listen to Yo Bato on Spotify*
 
