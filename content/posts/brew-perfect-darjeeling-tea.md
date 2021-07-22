@@ -38,7 +38,7 @@ Alright, let's brew some tea.
 
 ## Step 1: Boil filtered water
 
-The best way to get the right temperate is to try a few settings and find the right temperature that suits your taste. I like my tea at 200 degrees Fahrenheit.  I have a friend, who also loves Darjeeling tea and he enjoys it at 190 degrees Fahrenheit. So, you have to play around with the temperature to find the right fit for your taste. However, I think, anything above 200 degrees Fahrenheit will burn the leaves.
+The best way to get the right temperature to brew your tea is to try a few settings and find the temperature that suits your taste. I like my tea at 200 degrees Fahrenheit.  I have a friend, who also loves Darjeeling tea and he enjoys it at 190 degrees Fahrenheit. So, you have to play around with the temperature to find the right fit for your taste. However, I think, anything above 200 degrees Fahrenheit will burn the leaves.
 
 ## Step 2: Scoop and measure your tea leaves
 
@@ -50,10 +50,10 @@ Pour the boiled water into your cup or pot and let it brew for four minutes. Onc
 
 ## Step 4: Let it rest
 
-I have found that after brewing your tea, letting it rest for another minute or so really brings out the flavour. It's just my personal opinion based on my experience.
+After brewing your tea, letting it rest for another minute or so really brings out the flavour. It's just my personal opinion based on my experience.
 
 ## Step 5: Enjoy your tea
 
-Enjoy your tea with a nice shortbread or a slice of your favourite cake.
+Enjoy your tea with your favourite biscuit or cake. I love it with scones or shortbread.
 
 ## &#xA;&#xA;&#xA;
