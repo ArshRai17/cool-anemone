@@ -28,7 +28,7 @@ sections:
         options:
           - Error on the site
           - Consultation
-          - Other
+          - Music Collaboration
       - type: form_field
         input_type: textarea
         name: message
