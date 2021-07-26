@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - I have job for you
-          - Music Collaboration
+          - Let's collaborate and create music
       - type: form_field
         input_type: textarea
         name: message
