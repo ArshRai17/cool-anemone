@@ -8,6 +8,7 @@ excerpt: 'Story behing Arsh''s debut single, Yo Bato.'
 canonical_url: lorem-ipsum
 layout: post
 thumb_img_path: /images/Artwork.jpg
+content_img_path: /images/Artwork.jpg
 ---
 *Ottawa, Ontario*—Yo Bato" (This Road) is an ode to life, a journey with many milestones to reach and explore. It is a medley about one's growth, learning and experiences, beautifully entwined together in an uplifting song. No matter where the Road (Yo Bato) takes us, we will always reach home. Home can be a warm embrace of your parents, the cooing of your baby, or the faces of your loved ones. These irreplaceable pleasures can be your milestones! “Yo Bato" is a rendition that immerses its listener in a soundscape.
 
