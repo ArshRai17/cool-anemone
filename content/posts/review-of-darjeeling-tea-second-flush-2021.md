@@ -26,12 +26,12 @@ I will start with my staple and a favourite, Margaret’s Hope.
 
 The second flush from Margaret’s Hope tea garden is one of my staple. It’s one of those Darjeeling teas that has a distinct aroma, signature taste, and after taste that beautifully lingers around in your mouth. And, yet again, Margaret's Hope Muscatel Second Flush 2021 is exactly how I’d expect it to taste. One those Darjeeling teas that I want to keep drinking all day.
 
-This 2021 second flush (DJ178/2021) from Margaret’s Hope has a lovely smoky aroma, so it was probably lightly toasted while being processed. The brew has a light golden color - simply beautiful to look at. It has that distinct Margaret’s Hope muscatel flavour and the after taste that lingers in your mouth. A tea that tastes better with every new sip. I love the way the smoky aroma hits your nostrils while you sip and muscatel flavour wraps your tongue and lingers in your mouth afterwards. A delectable tea that I would drink anytime. 
+This 2021 second flush (DJ178/2021) from Margaret’s Hope has a lovely smoky aroma, so it was probably lightly toasted while being processed. The brew has a light golden color - simply beautiful to look at. It has that distinct Margaret’s Hope muscatel flavour and the after taste that lingers in your mouth. A tea that tastes better with every new sip. I love the way the smoky aroma hits your nostrils while you sip and muscatel flavour wraps your tongue and lingers in your mouth afterwards. A delectable tea that I would drink anytime.
 
+## Okayti Premium Second Flush 2021 (DJ164/2021 FTGF0P1)
 
+It’s my second time drinking Okayti Estate’s second flush. The first time I drank their tea, I didn’t find any distinct flavour; however, it’s a different  experience this time. I think I will buy it again.
 
+This 2021 second flush (DJ164/2021) from Okayti tea estate has deep amber colour and a with sweet aroma. You will immediately feel the sweetness on your first sip with a light muscatel aftertaste. The sweetness of the tea lingers as you continue to sip this with a certain character from Okayti tea estate. An excellent tea to drink later in the afternoon or when you want to and some sweetness to your day.
 
-
-
-
-
+## Jungapana Premium Second Flush 2021 (DJ63/2021 FTGF0P1)&#xA;&#xA;The embodiment of ‘dreams in a cup’, this mellow Muscatel has flavors reminiscent of plums, peaches, grapes with subtle hints of honey.
