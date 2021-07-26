@@ -26,7 +26,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - I have job for you
+          - I have a job for you
           - Let's collaborate and create music
       - type: form_field
         input_type: textarea
