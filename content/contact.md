@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - Error on the site
-          - Consultation
+          - Content Related Consultation
           - Music Collaboration
       - type: form_field
         input_type: textarea
