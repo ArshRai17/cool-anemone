@@ -12,7 +12,7 @@ excerpt: >-
 thumb_img_path: /images/tea-darjeeling.jpg
 content_img_path: /images/tea-darjeeling.jpg
 ---
-Captured this image at [Cha Yi tea house.](https://shop.chayi.ca/)
+I captured this image at [Cha Yi tea house.](https://shop.chayi.ca/)
 
 There are a few things in my life that I cannot live without, and Darjeeling tea is one of those delights. The process of brewing a perfect cup of Darjeeling tea is simple, but you will need a few things.
 
@@ -24,7 +24,7 @@ You will need:
 
 *   Teaspoon. You can [buy a nice one from Amazon](https://www.amazon.ca/gp/product/B074L4MZRY/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B074L4MZRY\&linkId=3e915dd2da8deeeefa237435acfa3be8).
 
-*   Teacup. I love to see the colour of my tea as it brews, so [I love these teacups](https://www.amazon.ca/gp/product/B078PFY9RV/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B078PFY9RV\&linkId=2156758695fede503f84a7908f787bf5) for everyday use.
+*   Teacup. I like to see the colour of my tea as it brews, so [I love these teacups](https://www.amazon.ca/gp/product/B078PFY9RV/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B078PFY9RV\&linkId=2156758695fede503f84a7908f787bf5) for everyday use.
 
 *   Teapot with an infuser or a separate infuser for your cup. You can also use a regular teapot and strain the tea before serving. [This teapot is perfect for two cups.](https://www.amazon.ca/gp/product/B07KXSDQ9G/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B07KXSDQ9G\&linkId=7cb182cbaa75ecea6ddc78c34583f37b)
 
@@ -34,11 +34,13 @@ You will need:
 
 *   Biscuits or cake (optional)
 
-Alright, let's brew some tea.
+Alright, let's learn how to correctly brew Darjeeling tea.
+
+*Disclaimer: I am not a tea sommelier or tea taster; these opinions are based on personal taste and many years of drinking Darjeeling tea.*
 
 ## Step 1: Boil filtered water
 
-The best way to get the right temperature to brew your tea is to try a few settings and find the temperature that suits your taste. I like my tea at 200 degrees Fahrenheit.  I have a friend, who also loves Darjeeling tea and he enjoys it at 190 degrees Fahrenheit. So, you have to play around with the temperature to find the right fit for your taste. However, I think, anything above 200 degrees Fahrenheit will burn the leaves.
+Unlike other black teas, Darjeeling tea is usually not fully oxidized, therefore you must brew it at a lower temperature than other black teas. I would say starts around 185ºF go upto 200ºF. In my humble opinion, the best way to get the right temperature to brew your tea is to try a few settings - find the temperature that suits your taste. I like most of my Darjeeling tea at 200 degrees Fahrenheit.  I have a friend, who also loves Darjeeling tea and he enjoys it at 190 degrees Fahrenheit. So, you have to play around with the temperature to find the right fit for your taste. 
 
 ## Step 2: Scoop and measure your tea leaves
 
