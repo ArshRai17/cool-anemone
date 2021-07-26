@@ -28,6 +28,7 @@ sections:
         options:
           - I have a job for you
           - Let's collaborate and create music
+          - I just want to talk
       - type: form_field
         input_type: textarea
         name: message
