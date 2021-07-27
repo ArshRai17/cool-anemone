@@ -19,7 +19,7 @@ I had been sketching many ideas for songs but never really had a chance to explo
 
 ### <a name="songs"></a>
 
-## Check out my compositions
+## My Compositions
 
 *   Yo Bato
 
