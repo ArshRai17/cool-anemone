@@ -4,7 +4,7 @@ subtitle: 'Story behind Arsh''s debut single, Yo Bato.'
 date: '2021-07-26'
 thumb_img_alt: Yo Bato Artwork
 content_img_alt: Yo Bato Artwork
-excerpt: 'Story behing Arsh''s debut single, Yo Bato.'
+excerpt: 'the story behind Arsh''s debut single, Yo Bato.'
 canonical_url: lorem-ipsum
 layout: post
 thumb_img_path: /images/Artwork.jpg
