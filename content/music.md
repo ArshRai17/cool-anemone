@@ -4,6 +4,7 @@ subtitle: >-
   It's only when I am playing an instrument or singing, I can let go of
   everything else and just be in that moment.
 layout: page
+img_path: /images/WhatsApp Image 2021-07-27 at 3.53.41 PM.jpeg
 ---
 As an introspective singer-composer, I love a little quirk. I try to combine funk, blues, jazz, reggae and rock with mellow Nepali folk and contemporary music. I love to compose music that gives a fresh perspective to listeners and an impression to ponder over. In October 2021, I released my first single, Yo Bato—a Nepali funk number with swanky bass lines, vocal harmonies, and punchy rhythm guitar.
 
