@@ -12,4 +12,6 @@ sections:
     section_id: about
     content: >
       # about me
+
+       #### I'm a content designer and UX writer based in Ottawa, Canada.
 ---
