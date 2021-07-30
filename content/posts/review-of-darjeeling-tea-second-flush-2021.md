@@ -18,6 +18,8 @@ I finally get my hands on Darjeeling’s 2021 second flushes. Yay!
 
 I am so excited to write about these fine teas as much as I was excited to drink them. I drink teas from these tea estates regularly, but every new batch of tea tastes different with distinct differences in flavour, aroma and taste, and hence it's worth talking about. If you want to know how I brew my Darjeeling tea, read [How to brew a perfect cup of Darjeeling tea](/brew-perfect-darjeeling-tea).
 
+[About]({{< ref "/page/about" >}} "About Us")
+
 I will start with my staple and a favourite, Margaret’s Hope.
 
 ## Margaret's Hope Muscatel Second Flush 2021 (DJ178/2021 FTGF0P1)
