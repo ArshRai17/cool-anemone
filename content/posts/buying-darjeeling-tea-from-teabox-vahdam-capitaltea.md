@@ -101,7 +101,6 @@ They have a good variety of tea in their inventory but scrolling through all the
 
 My first experience has been great. I recently bought Okayti, Jungpana, and Margaret's Hope second flushes from them and all the teas were excellent. Read my review about these teas at [Review of Darjeeling's 2021 Second Flushes](/review-of-darjeeling-tea-second-flush-2021).
 
- [Music](/music)
 
 #### Price and Payment
 
