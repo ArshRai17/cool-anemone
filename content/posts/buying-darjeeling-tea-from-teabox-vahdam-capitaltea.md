@@ -16,7 +16,7 @@ As a Darjeelingey, I prefer getting my tea directly from Darjeeling. I ask my fo
 
 *   [Capital Tea](#capital-tea)
 
-*   [Vahdam](#vahdam-teas)
+*   [Vahdam Teas](#vahdam-teas)
 <a name="teabox"></a>
 ## Teabox
 
