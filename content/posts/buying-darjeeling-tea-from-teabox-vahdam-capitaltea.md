@@ -12,7 +12,7 @@ Photo by [Galen Crout.](https://unsplash.com/photos/fItRJ7AHak8)
 
 As a Darjeelingey, I prefer getting my tea directly from Darjeeling. I ask my folks, once in a while, to send me teas, which is quite an involved process. They have to walk uphill all the way to the town, taste the tea, buy it,  pack it and then send it through a reliable courier service.  Therefore, I avoid troubling them, unless I really need to, and have been purchasing my tea from the following online retailers:
 <>
-*   Teabox
+*   (Teabox)[#teabox]
 
 *   Capital Tea
 
