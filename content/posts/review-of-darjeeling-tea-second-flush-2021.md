@@ -8,8 +8,8 @@ thumb_img_alt: Hikers on the trail
 content_img_path: images/6.jpg
 content_img_alt: Hikers on the trail
 excerpt: >-
-  I recently bought second flush teas from some of the popular tea estates in
-  Darjeeling. Here is my quick review.
+  I recently bought second flush teas sourced from some of the popular tea
+  estates in Darjeeling. Here is my quick review.
 layout: post
 ---
 Photo by Arsh Rai
