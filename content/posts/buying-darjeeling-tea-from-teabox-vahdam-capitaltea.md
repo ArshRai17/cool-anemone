@@ -82,6 +82,7 @@ The teas are packed and sent in a sealed storage pouch. They have minimal packag
 
 Not the best customer service. Their response time is slow, and you can never reach them on the phone.
 
+<a name="teabox"></a>
 ## Vahdam Teas
 
 Vahdam Teas is a Noida-based retailer and exporter of fine teas. I started buying from them this year (2021). My experience has been good so far, other than the import tax that I had to pay, which they resolved quickly.
