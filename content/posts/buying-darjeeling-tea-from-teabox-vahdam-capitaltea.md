@@ -5,7 +5,7 @@ thumb_img_path: images/8.jpg
 thumb_img_alt: Hikers on the trail
 content_img_path: images/8.jpg
 content_img_alt: Hikers on the trail
-excerpt: A review of a few online retailers I use to buy my Darjeeling tea.
+excerpt: A review of a few online retailers I use to buy Darjeeling teas.
 layout: post
 ---
 Photo by [Galen Crout.](https://unsplash.com/photos/fItRJ7AHak8)
