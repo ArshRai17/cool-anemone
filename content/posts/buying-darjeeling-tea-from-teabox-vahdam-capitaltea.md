@@ -51,6 +51,7 @@ The teas are vacuum-packed, and storage pouches are provided for each tea you bu
 
 Excellent customer service. Prompt response.
 
+<a name="capital-tea"></a>
 ## Capital Tea
 
 My first experience with Capital Tea was disappointing as they misplaced my parcel and the delivery was delayed. I didn’t have any tea to drink for the entire 48 hours - imagine! Having said that, they are fine tea importers based in Toronto. Other than the first incident, my overall experience has been pretty good so far.
