@@ -40,11 +40,11 @@ Alright, let's learn how to correctly brew Darjeeling tea.
 
 ## Step 1: Boil filtered water
 
-Unlike other black teas, Darjeeling tea is usually not fully oxidized, therefore you must brew it at a lower temperature than other black teas. I would say starts around 185ºF go upto 200ºF. In my humble opinion, the best way to get the right temperature to brew your tea is to try a few settings - find the temperature that suits your taste. I like most of my Darjeeling tea at 200 degrees Fahrenheit.  I have a friend, who also loves Darjeeling tea and he enjoys it at 190 degrees Fahrenheit. So, you have to play around with the temperature to find the right fit for your taste. 
+Unlike other black teas, Darjeeling tea is usually not fully oxidized; therefore, you must brew it at a lower temperature than other black teas. I would say start with 185ºF and go up to 200ºF. The best way to get the right temperature to brew your tea is to try a few settings and find the temperature that suits your taste. I like most of my Darjeeling tea at 200 degrees Fahrenheit. I have a friend who also loves Darjeeling tea, and he enjoys it at 190 degrees Fahrenheit. So, you have to play around with the temperature to find the right fit for your taste.
 
 ## Step 2: Scoop and measure your tea leaves
 
-While the water is boiling, get your tea leaves ready. If you are brewing a cup of tea, scoop out one and half a teaspoon of your favourite second flush (or first flush).  Again, you may want to try out different amounts, but one and a half teaspoons per cup works out well. [I use this teaspoon](https://www.amazon.ca/gp/product/B074L4MZRY/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B074L4MZRY\&linkId=3e915dd2da8deeeefa237435acfa3be8).  If you're brewing the tea in a pot, use the same measurement - one and a half teaspoons per cup.
+While the water is boiling, get your tea leaves ready. If you are brewing a cup of tea, scoop out one and half a teaspoon of your favourite second flush (or first flush). Again, you may want to try out different amounts, but one and a half teaspoons per cup work out well. [I use this teaspoon](https://www.amazon.ca/gp/product/B074L4MZRY/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B074L4MZRY\&linkId=3e915dd2da8deeeefa237435acfa3be8).  If you're brewing the tea in a pot, use the same measurement - one and a half teaspoons per cup.
 
 ## Step 3: Carefully pour the boiled water into your cup/pot
 
@@ -52,7 +52,7 @@ Pour the boiled water into your cup or pot and let it brew for four minutes. Onc
 
 ## Step 4: Let it rest
 
-After brewing your tea, letting it rest for another minute or so really brings out the flavour. It's just my personal opinion based on my experience.
+After brewing your tea, letting it rest for another minute or really brings out the flavour. It's just my personal opinion based on years drinking Darjeeling tea.
 
 ## Step 5: Enjoy your tea
 
