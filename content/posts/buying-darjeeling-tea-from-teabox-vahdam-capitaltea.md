@@ -14,7 +14,7 @@ As a Darjeelingey, I prefer getting my tea directly from Darjeeling. I ask my fo
 <>
 *   (Teabox)[#teabox]
 
-*   Capital Tea
+*   (Capital Tea)[#capital-tea]
 
 *   Vahdam
 <a name="teabox"></a>
