@@ -111,7 +111,9 @@ You can pay using your credit card or through Paypal.
 
 #### Courier and Packaging
 
-The teas are vacuum-packed, and storage pouches are provided for each tea you buy. I was not impressed with the unnecessary packaging and marketing material that was included in the parcel. I guess that’s the reason why I had to pay the import tax. You can track your package, and the delivery was on time. Note that you may end paying import tax, but they will refund the amount if you reach out to their customer service.
+The teas are vacuum-packed, and storage pouches are provided for each tea you buy. I was not impressed with the unnecessary packaging and marketing material that was included in the parcel. I guess that’s the reason why I had to pay the import tax. 
+
+You can track your package, and the delivery was on time. Note that you may end paying import tax, but they will refund the amount if you reach out to their customer service.
 
 #### Customer Service
 
