@@ -1,5 +1,5 @@
 ---
-title: 'Tea Retailer Reviews: Teabox, Vahdam Teas, and Capital Tea'
+title: 'Reviewing Teabox, Vahdam Teas, and Capital Tea'
 date: '2019-03-10'
 thumb_img_path: images/8.jpg
 thumb_img_alt: Hikers on the trail
