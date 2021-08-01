@@ -8,7 +8,7 @@ content_img_alt: Hikers on the trail
 excerpt: A review of a few online retailers I use to buy Darjeeling teas.
 layout: post
 ---
-Photo by [Galen Crout.](https://unsplash.com/photos/fItRJ7AHak8)
+.Photo by [Galen Crout.](https://unsplash.com/photos/fItRJ7AHak8)
 
 As a Darjeelingey, I prefer getting my tea directly from Darjeeling. I ask my folks (only once in a while) to send me teas, which is quite an involved process in practice. They have to walk all the way to the town, taste the tea, buy it,  pack it and then send it through a reliable courier service. I avoid troubling them unless I desperately need to. Therefore, I purchase Darjeeling tea from the following online retailers:
 
@@ -21,14 +21,14 @@ As a Darjeelingey, I prefer getting my tea directly from Darjeeling. I ask my fo
 
 ## Teabox
 
-I have been regularly buying tea from Teabox, and I have had nothing but good experiences. They are based in Siliguri, West Bengal, which is a few hours away from Darjeeling. The entire experience, from their website and product to delivery and customer service, has always impressed me.
+I have been regularly buying tea from Teabox, and I have had nothing but good experiences. They are based in Siliguri, West Bengal, which is a few hours away from Darjeeling. The entire feel and process have been excellent, from their website and product to delivery and customer service.
 
 #### Website
 
 I love their website, and the web experience is fun. I like that the images and feelings are focused more on the tea itself rather than having their brand on the face. A subtle, product-focused marketing is good marketing, in my humble opinion.
-Seeing the colour of a brewed Darjeeling tea and the ability to hover your cursor on top of an image and quickly add the tea to your cart is handy and avoids extra clicks. They provide a detailed description of each tea and the tea's lifecycle - from the plucking date through to processing, sorting, vacuum packing, storing and shipping dates. Nice!
+Seeing the colour of a brewed Darjeeling tea and the ability to hover your cursor on top of an image and quickly add the tea to your cart is handy and avoids extra clicks. They provide a detailed description of each tea and its life cycle  - from the plucking date to processing, sorting, vacuum packing, storing and shipping dates. Nice!
 
-As a customer, you can provide comments and feedback for each tea, which is published in the comments section. However, I would be skeptical, as only positive comments are published. My last negative comment about a teaspoon I bought was not posted.
+As a customer, you can provide comments and feedback for each tea published in the comments section. However, I would be skeptical, as only positive comments are published. They did not post y last negative comment about a teaspoon I bought from their website.
 
 #### Tea Selection
 
@@ -92,7 +92,7 @@ Vahdam Teas is a Noida-based retailer and exporter of fine teas. I started buyin
 
 #### Website
 
-While they have a modern-looking website, I am not a fan of their navigation, especially the inability to filter Darjeeling's tea variety (First Flush vs the Second Flush). I only drink Second Flush and prefer the ability to filter out the noise.  Vahdam Teas' website does not have that option, which means scrolling and paying attention to every black tea in their inventory. They highlight new arrivals with a tag, but it is still not helpful when you have to keep scrolling. If anyone from Vahdam Teas is reading this article, you guys need to add a filter and improve the navigation. If you guys need help, you can always reach out to me!
+While they have a modern-looking website, I am not a fan of their navigation, especially the inability to filter Darjeeling's tea variety (First Flush vs the Second Flush). I only drink Second Flush and prefer the ability to filter out the noise.  Vahdam Teas' website does not have that option, which means scrolling and paying attention to every black tea in their inventory. They highlight new arrivals with a tag, but it is still not helpful when you have to keep scrolling. If anyone from Vahdam Teas is reading this article, you need to add a filter and improve the navigation. If you guys need help, you can always reach out to me!
 
 Also, you have to click a couple of times to add a tea to your cart, not the best experience. Furthermore, as compared to Teabox and Capital Tea, where you have the option to buy 100 grams or more, I have only seen 100 grams with Vahdam Teas.
 
@@ -102,7 +102,7 @@ They have a good variety of tea in their inventory but scrolling through all the
 
 #### Tea Quality
 
-My first experience has been great. I recently bought Okayti, Jungpana, and Margaret's Hope second flushes from them and all the teas were excellent. Read my review about these teas at \[Review of Darjeeling's 2021 Second Flushes]\({{< ref "/review-of-darjeeling-tea-second-flush-2021" >}} "Review of Darjeeling's 2021 Second Flushes").
+My first experience has been great. I recently bought Okayti, Jungpana, and Margaret's Hope second flushes from them and all the teas were excellent. Read my review about these teas at \[Review of Darjeeling's 2021 Second Flushes]\({{< ref "/review-of-Darjeeling-tea-second-flush-2021" >}} "Review of Darjeeling's 2021 Second Flushes").
 
 #### Price and Payment
 
@@ -117,4 +117,4 @@ You can track your package, and the delivery was on time. Note that you may end 
 
 #### Customer Service
 
-Good customer service. I reached out to their customer service with my complaints about having to pay a high import tax, and they quickly resolved it with a refund.
+Good customer service. I reached out to their customer service with my complaints about paying a high import tax, and they quickly resolved it with a refund.
