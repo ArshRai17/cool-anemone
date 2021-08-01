@@ -102,12 +102,12 @@ They have a good variety of tea in their inventory but scrolling through all the
 
 #### Tea Quality
 
-My first experience has been great. I recently bought Okayti, Jungpana, and Margaret's Hope second flushes from them and all the teas were excellent. Read my review about these teas at [Review of Darjeeling's 2021 Second Flushes]({{< ref "/review-of-darjeeling-tea-second-flush-2021" >}} "Review of Darjeeling's 2021 Second Flushes").
+My first experience has been great. I recently bought Okayti, Jungpana, and Margaret's Hope second flushes from them and all the teas were excellent. Read my review about these teas at \[Review of Darjeeling's 2021 Second Flushes]\({{< ref "/review-of-darjeeling-tea-second-flush-2021" >}} "Review of Darjeeling's 2021 Second Flushes").
 
 #### Price and Payment
 
 They are price competitive and cheaper than Teabox, given that their shipping fees are much lower.
-You can pay using your credit card or by calling them on the phone.
+You can pay using your credit card or through Paypal.
 
 #### Courier and Packaging
 
