@@ -10,7 +10,7 @@ layout: post
 ---
 Photo by [Galen Crout.](https://unsplash.com/photos/fItRJ7AHak8)
 
-As a Darjeelingey, I prefer getting my tea directly from Darjeeling. I ask my folks, once in a while, to send me teas, which is quite an involved process. They have to walk uphill all the way to the town, taste the tea, buy it,  pack it and then send it through a reliable courier service.  Therefore, I avoid troubling them, unless I really need to, and have been purchasing my tea from the following online retailers:
+As a Darjeelingey, I prefer getting my tea directly from Darjeeling. I ask my folks (only once in a while) to send me teas, which is quite an involved process in practice. They have to walk all the way to the town, taste the tea, buy it,  pack it and then send it through a reliable courier service. I avoid troubling them unless I desperately need to. Therefore, I purchase Darjeeling tea from the following online retailers:
 
 *   [Teabox](#teabox)
 
@@ -111,7 +111,7 @@ You can pay using your credit card or through Paypal.
 
 #### Courier and Packaging
 
-The teas are vacuum-packed, and storage pouches are provided for each tea you buy. I was not impressed with the unnecessary packaging and marketing material that was included in the parcel. I guess that’s the reason why I had to pay the import tax. 
+The teas are vacuum-packed, and storage pouches are provided for each tea you buy. I was not impressed with the unnecessary packaging and marketing material that was included in the parcel. I guess that’s the reason why I had to pay the import tax.
 
 You can track your package, and the delivery was on time. Note that you may end paying import tax, but they will refund the amount if you reach out to their customer service.
 
