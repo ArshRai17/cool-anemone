@@ -21,7 +21,7 @@ As a Darjeelingey, I prefer getting my tea directly from Darjeeling. I ask my fo
 
 ## Teabox
 
-I have been regularly buying tea from Teabox, and I have had nothing but good experiences. They are based in Siliguri, West Bengal, which is a few hours away from Darjeeling. The entire experience, from the website and product to delivery and customer service, has always impressed me.
+I have been regularly buying tea from Teabox, and I have had nothing but good experiences. They are based in Siliguri, West Bengal, which is a few hours away from Darjeeling. The entire experience, from their website and product to delivery and customer service, has always impressed me.
 
 #### Website
 
@@ -102,7 +102,7 @@ They have a good variety of tea in their inventory but scrolling through all the
 
 #### Tea Quality
 
-My first experience has been great. I recently bought Okayti, Jungpana, and Margaret's Hope second flushes from them and all the teas were excellent. Read my review about these teas at [Review of Darjeeling's 2021 Second Flushes]({{< ref "/review-of-darjeeling-tea-second-flush-2021" >}} "Review of Darjeeling's 2021 Second Flushes").
+My first experience has been great. I recently bought Okayti, Jungpana, and Margaret's Hope second flushes from them and all the teas were excellent. Read my review about these teas at \[Review of Darjeeling's 2021 Second Flushes]\({{< ref "/review-of-darjeeling-tea-second-flush-2021" >}} "Review of Darjeeling's 2021 Second Flushes").
 
 #### Price and Payment
 
