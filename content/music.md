@@ -18,11 +18,6 @@ I had been sketching many ideas for songs but never really had a chance to explo
 
 ## My Compositions
 
-{{< gallery >}}
-  {{< figure src="image1.jpg" >}}
-  {{< figure src="image2.jpg" >}}
-  {{< figure src="image3.jpg" >}}
-{{< /gallery >}}
 
 *   Yo Bato
 
