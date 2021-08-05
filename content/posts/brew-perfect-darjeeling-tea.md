@@ -42,17 +42,17 @@ Alright, let's learn how to correctly brew Darjeeling tea.
 
 Unlike other black teas, Darjeeling tea is usually not fully oxidized; therefore, you must brew it at a lower temperature than other black teas. I would say start with 185ºF and go up to 200ºF. The best way to get the right temperature to brew your tea is to try a few settings and find the temperature that suits your taste. I like most of my Darjeeling tea at 200 degrees Fahrenheit. I have a friend who also loves Darjeeling tea, and he enjoys it at 190 degrees Fahrenheit. So, you have to play around with the temperature to find the right fit for your taste.
 
-## Step 2: Scoop and measure your tea leaves
+## Step 2: Prepare your tea leaves
 
 While the water is boiling, get your tea leaves ready. If you are brewing a cup of tea, scoop out one and half a teaspoon of your favourite second flush (or first flush). Again, you may want to try out different amounts, but one and a half teaspoons per cup work out well. [I use this teaspoon](https://www.amazon.ca/gp/product/B074L4MZRY/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B074L4MZRY\&linkId=3e915dd2da8deeeefa237435acfa3be8).  If you're brewing the tea in a pot, use the same measurement - one and a half teaspoons per cup.
 
-## Step 3: Carefully pour the boiled water into your cup/pot
+## Step 3: Brew your tea
 
-Pour the boiled water into your cup or pot and let it brew for four minutes. Once again, brew-time for your tea depends on whether you like your tea strong or light. I like my tea strong; it brings out the muscatel flavour and a nice after-taste. I brew my tea between four to five minutes. My best advice is to sip your tea as it brews until you get the flavour you like. However, brewing longer than five minutes will potentially create some bitterness.
+Pour the boiled water into your cup or pot and let it brew for four minutes. Once again, brew-time for your tea depends on whether you like your tea strong or light. I like my tea strong and robust; it brings out the muscatel flavour and a nice after-taste. I brew my tea between four to five minutes. My best advice is to sip your tea as it brews until you get the flavour you like. Note that brewing longer than five minutes will potentially create some bitterness.
 
 ## Step 4: Let it rest
 
-After brewing your tea, letting it rest for another minute or really brings out the flavour. It's just my personal opinion based on years drinking Darjeeling tea.
+After brewing your tea, let it rest for another minute. You will not get the flavour of the tea if it is too hot, and also letting it rest for a bit really brings out the flavour.
 
 ## Step 5: Enjoy your tea
 
