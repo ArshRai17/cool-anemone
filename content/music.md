@@ -20,7 +20,7 @@ I had been sketching many ideas for songs but never really had a chance to explo
 
 Coming soon
 
-<!--
+<!-- -->
 *   Yo Bato
 
 *   Sinking in Love
