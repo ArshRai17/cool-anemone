@@ -12,7 +12,7 @@ I was born and brought up in Darjeeling and grew up listening to bands and music
 
 In 2007, I moved to New Zealand (NZ) to pursue higher studies. New Zealanders love reggae, and bands like Fat Freddy’s Drop, Trinity Roots, Kora, The Black Seeds, and Katchafire were creating some fantastic music. There is a significant influence of NZ music in the song called “Sinking in Love” that I am currently working on. I anticipate releasing the song in early 2022.
 
-I had been sketching many ideas for songs but never really had a chance to explore them further. After an extended lockdown in Canada due to COVID, and working from home, I could squeeze in time for music. Exploring the theme for “Yo Bato” was a big step for me. I am currently working on recording a few more songs that I had roughly written years ago. I am also singing a few songs for [Phil Rai](https://www.instagram.com/philraiz/?hl=en), due to be released later this year and playing guitar for a local Ottawa-based band called Rodhi Blues. I am based in Ottawa and record music in my home studio.
+I had been sketching many ideas for songs but never really had a chance to explore them further. After an extended lockdown in Canada due to COVID, and working from home, I could squeeze in time for music. Exploring the theme for “Yo Bato” was a big step for me. I am based in Ottawa and record music in my home studio.
 
 ### <a name="songs"></a>
 
