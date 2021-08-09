@@ -37,7 +37,7 @@ Most teas that I’ve bought from Teabox have been excellent, with a few excepti
 
 #### Price
 
-They are price competitive, but I've noticed that this year's their prices were higher. Also, their courier service fee has increased quite a bit, which adds to your overall cost. However, if you purchase over $100, you qualify for free shipping.
+They are price competitive, but I've noticed that this year their prices were higher. Also, the courier service fee has increased quite a bit, which adds to your overall cost. However, if you purchase over $100, you qualify for free shipping.
 
 You can pay using your credit card or through PayPal
 
