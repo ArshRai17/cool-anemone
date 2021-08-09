@@ -8,7 +8,7 @@ content_img_alt: Hikers on the trail
 excerpt: A review of a few online retailers I use to buy Darjeeling teas.
 layout: post
 ---
-As a Darjeelingey, I prefer getting my tea directly from Darjeeling. I ask my folks (only once in a while) to send me teas, which is quite an involved process in practice. They have to walk all the way to the town, taste the tea, buy it,  pack it and then send it through a reliable courier service. I avoid troubling them unless I desperately need to. Therefore, I purchase Darjeeling tea from the following online retailers:
+As a Darjeelingey, I prefer getting my tea directly from Darjeeling. I ask my folks (only once in a while) to send me teas, which is quite an involved process in practice. They have to walk all the way to the town, taste the tea, buy it,  pack it and then send it through a reliable courier service. I avoid troubling them unless I desperately need to. Therefore, I have been purchasing Darjeeling tea from the following online retailers:
 
 *   [Teabox](#teabox)
 
