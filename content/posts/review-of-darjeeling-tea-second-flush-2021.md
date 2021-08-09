@@ -12,18 +12,15 @@ excerpt: >-
   estates in Darjeeling. Here is my quick review.
 layout: post
 ---
-Photo by Arsh Rai
-
 I finally get my hands on Darjeeling’s 2021 second flushes. Yay!
 
-I am so excited to write about these fine teas as much as I was excited to drink them. I drink teas from these tea estates regularly, but every new batch of tea tastes different with distinct differences in flavour, aroma and taste, and hence it's worth talking about. If you want to know how I brew my Darjeeling tea, read [How to brew a perfect cup of Darjeeling tea]({{< ref "/brew-perfect-darjeeling-tea" >}} "How to brew a perfect cup of Darjeeling tea")
+I am so excited to write about these fine teas as much as I was excited to drink them. I drink teas from these tea estates regularly, but every new batch of tea tastes different with distinct differences in flavour, aroma and taste, and hence it's worth talking about. If you want to know how I brew my Darjeeling tea, read \[How to brew a perfect cup of Darjeeling tea]\({{< ref "/brew-perfect-darjeeling-tea" >}} "How to brew a perfect cup of Darjeeling tea")
 
 I will start with my staple and a favourite, Margaret’s Hope.
 
 ## Margaret's Hope Muscatel Second Flush 2021 (DJ178/2021 FTGF0P1)
 
 The second flush from Margaret's Hope tea garden is one of my staples. It's one of those Darjeeling teas that has a distinct aroma, signature taste, and an aftertaste that beautifully lingers around in your mouth. And, yet again, Margaret's Hope Muscatel Second Flush 2021 is exactly how I'd expect it to taste. One of those Darjeeling teas that I want to keep drinking all day.
-
 
 This 2021 second flush (DJ178/2021) from Margaret's Hope tea estate has a lovely smoky aroma, so it was probably lightly toasted while being processed. The brew has a light golden colour - simply beautiful to look at and has that distinct Margaret's Hope muscatel flavour and the aftertaste that lingers in your mouth. A tea that tastes better with every sip. I love the way the smoky aroma hits your nostrils while you sip, and the muscatel flavour wraps your tongue and lingers in your mouth afterwards. A delectable tea that I would drink anytime.
 
