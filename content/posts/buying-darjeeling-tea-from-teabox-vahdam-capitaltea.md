@@ -3,7 +3,7 @@ title: 'Reviewing Teabox, Capital Tea, and Vahdam Teas'
 date: '2019-03-10'
 thumb_img_path: /images/tea-sellers-review.png
 thumb_img_alt: Hikers on the trail
-content_img_path: images/8.jpg
+content_img_path: /images/tea-sellers-review.png
 content_img_alt: Hikers on the trail
 excerpt: A review of a few online retailers I use to buy Darjeeling teas.
 layout: post
