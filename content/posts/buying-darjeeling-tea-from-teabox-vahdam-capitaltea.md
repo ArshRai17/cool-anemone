@@ -1,6 +1,6 @@
 ---
 title: 'Reviewing Teabox, Capital Tea, and Vahdam Teas'
-date: '2021-08-10'
+date: '2021-08-04'
 thumb_img_path: /images/tea-sellers-review.png
 thumb_img_alt: Hikers on the trail
 content_img_path: /images/tea-sellers-review.png
