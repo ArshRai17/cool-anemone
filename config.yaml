@@ -51,7 +51,7 @@ params:
         url: 'https://www.youtube.com/channel/UCswslInf1qC9DJIcYkWSyRg/featured'
         style: icon
         icon_class: fa-youtube
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
       - type: action
