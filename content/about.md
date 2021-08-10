@@ -21,7 +21,7 @@ Over the last decade (and more), I’ve:
 
 *   enjoyed working with some of the smartest individuals in the information and technology sector
 
-I identify and understand the user and business needs, enjoy working with designers and developers, and value the importance of communicating clearly and consistently using meaningful language. Whether you need to update your existing communication materials or yneed someone to research, design, and write new content—I can help.
+I identify and understand the user and business needs, enjoy working with designers and developers, and value the importance of communicating clearly and consistently using meaningful language. Whether you need to update your existing communication materials or need someone to research, design, and write new content—I can help.
 
 > Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity. Charles Mingus
 
