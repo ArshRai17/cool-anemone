@@ -34,7 +34,7 @@ You will need:
 
 *   Biscuits or cake (optional)
 
-*Disclaimer: I am not a tea sommelier or tea taster; these opinions are based on my personal taste and many years of drinking Darjeeling tea.*
+*Disclaimer: I am not a tea sommelier or tea taster; these opinions are based on my taste and many years of drinking Darjeeling tea.*
 
 ## Step 1: Boil filtered water
 
