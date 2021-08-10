@@ -1,7 +1,7 @@
 ---
 title: Yo Bato
 subtitle: 'The story behind Arsh''s debut single, Yo Bato.'
-date: '2021-08-26'
+date: '2021-08-09'
 thumb_img_alt: Yo Bato Artwork
 content_img_alt: Yo Bato Artwork
 excerpt: 'The story behind Arsh''s debut single, Yo Bato.'
