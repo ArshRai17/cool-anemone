@@ -72,7 +72,8 @@ params:
       &copy; arshabhiraic.com. All rights reserved. Site was created with <a
       href="https://www.stackbit.com/?utm_source=deployed-footer"
       target="_blank" rel="noopener">Stackbit</a> &#10084;. Kickass hosting
-      provided by Netlify &#10084 
+      provided by <a href="https://www.stackbit.com/?utm_source=deployed-footer"
+      target="_blank" rel="noopener">Netlify &#10084 
 taxonomies:
   stub: stub
 disableKinds:
