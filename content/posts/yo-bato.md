@@ -7,7 +7,7 @@ content_img_alt: Yo Bato Artwork
 excerpt: 'The story behind Arsh''s debut single, Yo Bato.'
 canonical_url: lorem-ipsum
 layout: post
-thumb_img_path: /images/Artwork.jpg
+thumb_img_path: /images/artwork-yo-bato.jpg
 content_img_path: /images/Artwork.jpg
 ---
 Coming soon!
