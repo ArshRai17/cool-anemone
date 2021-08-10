@@ -12,9 +12,9 @@ excerpt: >-
   estates in Darjeeling. Here is my quick review.
 layout: post
 ---
-I finally got my hands on Darjeeling’s 2021 second flushes. Yay! I bought these fresh bath from [Vahdam Teas](https://www.vahdam.com/).
+I finally got my hands on Darjeeling’s 2021 second flushes. Yay! I bought these fresh batches from [Vahdam Teas](https://www.vahdam.com/).
 
-I am so excited to write about these fine teas as much as I was excited to drink them. I drink teas from these tea estates regularly, but every new batch of tea tastes different with distinct differences in flavour, aroma and taste, and hence it's worth talking about. If you want to know how I brew my Darjeeling tea, read [How to brew a perfect cup of Darjeeling tea]({{< ref "/brew-perfect-darjeeling-tea" >}} "How to brew a perfect cup of Darjeeling tea").
+I am so excited to write about these fine teas as much as I was excited to drink them. I drink teas from these tea estates regularly, but every new batch of tea tastes different with distinct differences in flavour, aroma and taste, and hence it's worth talking about. If you want to know how I brew my Darjeeling tea, read \[How to brew a perfect cup of Darjeeling tea]\({{< ref "/brew-perfect-darjeeling-tea" >}} "How to brew a perfect cup of Darjeeling tea").
 
 I will start with my staple and a favourite, Margaret’s Hope.
 
@@ -28,10 +28,10 @@ This 2021 second flush (DJ178/2021) from Margaret's Hope tea estate has a lovely
 
 It’s my second time drinking Okayti Estate’s second flush. The first time I drank their tea, I didn’t find any distinct flavour; however, it was a different experience this time. I think I will buy it again.
 
-This 2021 second flush (DJ164/2021) from Okayti tea estate has a deep amber colour and a sweet aroma. You will immediately feel the sweetness on your first sip with a light muscatel aftertaste. The sweet muscatel aftertaste tea lingers in your mouth as you continue to sip it. Okayti Premium Second Flush 2021 is an excellent tea to drink in the afternoon or when you want to add some sweetness to your day.
+This 2021 second flush (DJ164/2021) from Okayti tea estate has a deep amber colour and a sweet aroma. You will immediately feel the sweetness on your first sip with a light muscatel aftertaste. The sweet muscatel aftertaste lingers in your mouth as you continue to sip this delicious tea. Okayti Premium Second Flush 2021 is an excellent tea to drink in the afternoon or when you want to add some sweetness to your day.
 
 ## Jungapana Premium Second Flush 2021 (DJ63/2021 FTGF0P1)
 
-Black teas from Jungpana tea estate are quite sought-after and often demand a high price in the market. I had tried their second flush a few times before, but it never hit my palate. Last year, as I was buying my monthly stock of Darjeeling’s second flush, I saw Jungapana’s Summer Chinary on sale at Teabox. I decided to try it one more time, and I liked it. This year I immediately got Jungapan’s 2021 second flush as soon as it was in the market. I bought it from Vahdam Teas this time.
+Black teas from Jungpana tea estate are quite sought-after and often demand a high price in the market. I had tried their second flush a few times before, but it never hit my palate. Last year, as I was buying my monthly stock of Darjeeling’s second flush, I saw Jungapana’s Summer Chinary on sale at Teabox. I decided to try it one more time, and surprisingly, I liked it. This year I immediately got Jungapan’s 2021 second flush as soon as it was in the market. I bought it from Vahdam Teas this time.
 
-This 2021 second flush (DJ63/2021) from Jungpana tea estate has a subtle muscatel flavour and light aroma with a beautiful dark amber color when brewed. You will feel the subtle muscatel flavour wrapping your tongue, and it gets better after every sip. Jungapana Premium Second Flush 2021 , is a full-bodied tea that is great in the morning or afternoon. Finish your cup with a big sip.
+This 2021 second flush (DJ63/2021) from Jungpana tea estate has a subtle muscatel flavour and light aroma with a beautiful dark amber color when brewed. You will feel the subtle muscatel flavour wrapping your tongue, and it gets better after every sip. Jungapana Premium Second Flush 2021, is a full-bodied tea that is great in the morning or afternoon. Finish your cup with a big sip.
