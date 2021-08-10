@@ -12,9 +12,9 @@ excerpt: >-
   estates in Darjeeling. Here is my quick review.
 layout: post
 ---
-I finally got my hands on Darjeeling’s 2021 second flushes. Yay!
+I finally got my hands on Darjeeling’s 2021 second flushes. Yay! I bought these fresh bath from [Vahdam Teas](https://www.vahdam.com/).
 
-I am so excited to write about these fine teas as much as I was excited to drink them. I drink teas from these tea estates regularly, but every new batch of tea tastes different with distinct differences in flavour, aroma and taste, and hence it's worth talking about. If you want to know how I brew my Darjeeling tea, read [How to brew a perfect cup of Darjeeling tea]({{< ref "/brew-perfect-darjeeling-tea" >}} "How to brew a perfect cup of Darjeeling tea").
+I am so excited to write about these fine teas as much as I was excited to drink them. I drink teas from these tea estates regularly, but every new batch of tea tastes different with distinct differences in flavour, aroma and taste, and hence it's worth talking about. If you want to know how I brew my Darjeeling tea, read \[How to brew a perfect cup of Darjeeling tea]\({{< ref "/brew-perfect-darjeeling-tea" >}} "How to brew a perfect cup of Darjeeling tea").
 
 I will start with my staple and a favourite, Margaret’s Hope.
 
