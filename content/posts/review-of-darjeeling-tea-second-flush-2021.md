@@ -14,7 +14,7 @@ layout: post
 ---
 I finally got my hands on Darjeeling’s 2021 second flushes. Yay! I bought these fresh batches from [Vahdam Teas](https://www.vahdam.com/).
 
-I am so excited to write about these fine teas as much as I was excited to drink them. I drink teas from these tea estates regularly, but every new batch of tea tastes different with distinct differences in flavour, aroma and taste, and hence it's worth talking about. If you want to know how I brew my Darjeeling tea, read \[How to brew a perfect cup of Darjeeling tea]\({{< ref "/brew-perfect-darjeeling-tea" >}} "How to brew a perfect cup of Darjeeling tea").
+I am so excited to write about these fine teas as much as I was excited to drink them. I drink teas from these tea estates regularly, but every new batch tastes different, with distinct differences in flavour, aroma and taste, and hence it's worth talking about. 
 
 I will start with my staple and a favourite, Margaret’s Hope.
 
@@ -35,3 +35,6 @@ This 2021 second flush (DJ164/2021) from Okayti tea estate has a deep amber colo
 Black teas from Jungpana tea estate are quite sought-after and often demand a high price in the market. I had tried their second flush a few times before, but it never hit my palate. Last year, as I was buying my monthly stock of Darjeeling’s second flush, I saw Jungapana’s Summer Chinary on sale at Teabox. I decided to try it one more time, and surprisingly, I liked it. This year I immediately got Jungapan’s 2021 second flush as soon as it was in the market. I bought it from Vahdam Teas this time.
 
 This 2021 second flush (DJ63/2021) from Jungpana tea estate has a subtle muscatel flavour and light aroma with a beautiful dark amber color when brewed. You will feel the subtle muscatel flavour wrapping your tongue, and it gets better after every sip. Jungapana Premium Second Flush 2021, is a full-bodied tea that is great in the morning or afternoon. Finish your cup with a big sip.
+
+If you want to know how I brew my Darjeeling tea, read \[How to brew a perfect cup of Darjeeling tea]\({{< ref "/brew-perfect-darjeeling-tea" >}} "How to brew a perfect cup of Darjeeling tea").
+
