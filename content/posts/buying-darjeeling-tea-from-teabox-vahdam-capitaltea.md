@@ -91,7 +91,7 @@ Vahdam Teas is a Noida-based retailer and exporter of fine teas. I started buyin
 
 While they have a modern-looking website, I am not a fan of their navigation, especially the inability to filter Darjeeling's tea variety (First Flush vs the Second Flush). I only drink Second Flush and prefer the ability to filter out the noise.  Vahdam Teas' website does not have that option, which means scrolling and paying attention to every black tea in their inventory. They highlight new arrivals with a tag, but it is still not helpful when you have to keep scrolling. Also, you have to click a couple of times to add a tea to your cart, not the best experience. If anyone from Vahdam Teas is reading this article, you need to add a filter and improve the navigation.
 
-Furthermore, as compared to Teabox and Capital Tea, where you have the option to buy 100 grams or more, Vahdam Teas mostly offer 100.
+Furthermore, as compared to Teabox and Capital Tea, where you have the option to buy 100 grams or more, Vahdam Teas mostly offer 100 grams.
 
 #### Tea Inventory
 
