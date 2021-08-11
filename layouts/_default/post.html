@@ -23,6 +23,10 @@
     </footer>
   </article><!-- .post -->
 
+  {{ with .NextInSection }}
+  <a href="{{ .Permalink }}">{{ .Title }}</a>
+{{ end }}
+
   <!-- Next/previous post navigation TBD -->
   <!--
   <nav class="block block-read-next">
