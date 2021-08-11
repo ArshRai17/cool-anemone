@@ -19,11 +19,11 @@ As a Darjeelingey, I prefer getting my tea directly from Darjeeling. I ask my fo
 
 ## Teabox
 
-I have been regularly buying tea from Teabox, and I have had nothing but good experiences. They are based in Siliguri, West Bengal, which is a few hours away from Darjeeling. The entire feel and process have been excellent, from their website and product to delivery and customer service.
+I have been regularly buying tea from Teabox, and I have had nothing but good experiences. They are based in Siliguri, West Bengal, which is a few hours away from Darjeeling. The entire journey has been excellent, from their website and product to delivery and customer service.
 
 #### Website
 
-I love their website, and the web experience is fun. I like that the images and feelings; focused more on the tea itself rather than imposing their brand on the face. A subtle, product-focused marketing is good marketing, in my humble opinion. The ability to hover your cursor on top of an image and quickly add the tea to your cart is handy and avoids extra clicks. They provide a detailed description of each tea and its life cycle  - from the plucking date to processing, sorting, vacuum packing, storing and shipping dates. Nice!
+I love their website, and the web experience is fun. I like that the images and feelings are focused more on the tea itself rather than imposing their brand on the face. A subtle, product-focused marketing is good marketing, in my humble opinion. The ability to hover your cursor on top of an image and quickly add the tea to your cart is handy and avoids extra clicks. They provide a detailed description of each tea and its life cycle  - from the plucking date to processing, sorting, vacuum packing, storing and shipping dates. Nice!
 
 As a customer, you can provide comments and feedback for each tea published in the comments section. However, I would be skeptical, as only positive comments are published. They did not post y last negative comment about a teaspoon I bought from their website.
 
@@ -89,7 +89,7 @@ Vahdam Teas is a Noida-based retailer and exporter of fine teas. I started buyin
 
 #### Website
 
-While they have a modern-looking website, I am not a fan of their navigation, especially the inability to filter Darjeeling's tea variety (First Flush vs the Second Flush). I only drink Second Flush and prefer the ability to filter out the noise.  Vahdam Teas' website does not have that option, which means scrolling and paying attention to every black tea in their inventory. They highlight new arrivals with a tag, but it is still not helpful when you have to keep scrolling. Also, you have to click a couple of times to add a tea to your cart, not the best experience. If anyone from Vahdam Teas is reading this article, you need to add a filter and improve the navigation. 
+While they have a modern-looking website, I am not a fan of their navigation, especially the inability to filter Darjeeling's tea variety (First Flush vs the Second Flush). I only drink Second Flush and prefer the ability to filter out the noise.  Vahdam Teas' website does not have that option, which means scrolling and paying attention to every black tea in their inventory. They highlight new arrivals with a tag, but it is still not helpful when you have to keep scrolling. Also, you have to click a couple of times to add a tea to your cart, not the best experience. If anyone from Vahdam Teas is reading this article, you need to add a filter and improve the navigation.
 
 Furthermore, as compared to Teabox and Capital Tea, where you have the option to buy 100 grams or more, Vahdam Teas mostly offer 100.
 
@@ -99,7 +99,7 @@ They have a good variety of tea in their inventory but scrolling through all the
 
 #### Tea Quality
 
-My first experience has been great. I recently bought Okayti, Jungpana, and Margaret's Hope second flushes from them and all the teas were excellent. Read my review about these teas at [Review of Darjeeling's 2021 Second Flushes]({{< ref "/review-of-Darjeeling-tea-second-flush-2021" >}} "Review of Darjeeling's 2021 Second Flushes").
+My first experience has been great. I recently bought Okayti, Jungpana, and Margaret's Hope second flushes from them and all the teas were excellent. Read my review about these teas at \[Review of Darjeeling's 2021 Second Flushes]\({{< ref "/review-of-Darjeeling-tea-second-flush-2021" >}} "Review of Darjeeling's 2021 Second Flushes").
 
 #### Price and Payment
 
@@ -108,7 +108,7 @@ You can pay using your credit card or through Paypal.
 
 #### Courier and Packaging
 
-The teas are vacuum-packed, and storage pouches are provided for each tea you buy. I was not impressed with the unnecessary packaging and marketing material that was included in the parcel. I guess that’s the reason why I had to pay the import tax.
+The teas are vacuum-packed, and storage pouches are provided for each tea you buy. I was not impressed with the unnecessary packaging and marketing material in the parcel. I guess that’s the reason why I had to pay the import tax.
 
 You can track your package, and the delivery was on time. Note that you may end paying import tax, but they will refund the amount if you reach out to their customer service.
 
