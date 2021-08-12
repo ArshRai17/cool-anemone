@@ -10,8 +10,6 @@ As an introspective singer-composer, I love creating music that gives listeners 
 
 I was born and brought up in Darjeeling and grew up listening to bands and musicians like Extreme, Dream Theatre, Europe, George Benson, Jaco Pastorius, Al Jarreau, Bill Withers, Prince, Miles Davis, RHCP, and Jamiroquai,  to name a few. We are talking about the 90s and mixtapes here. From a small-town boy mixing tapes, I now make my own music, taking inspiration from the bands that I grew up listening to yet staying close to my roots.
 
-I am based in Ottawa and record music in my home studio.
-
 ### <a name="songs"></a>
 
 ## My Compositions
