@@ -89,7 +89,11 @@
     overflow: hidden;
   }
 
-  prv-nxt
+  .prv-nxt a {
+      .post-inside a {
+        padding: 5px 25px 25px 25px;
+    }
+  }
 
   .post-thumbnail {
     border: 0;
