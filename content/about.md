@@ -13,7 +13,7 @@ Over the last decade (and more), I’ve:
 
 *   wrote and designed a wide variety of GUI and CLI based technical content
 
-*   reviewed and wrote several user interface (UI) texts
+*   reviewed and wrote several UI texts
 
 *   managed information architecture (IA) for several technical documentation
 
@@ -25,4 +25,4 @@ I identify and understand the user and business needs, enjoy working with design
 
 > Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity. Charles Mingus
 
-Other than developing technical information for [Solace PubSub+ products](https://solace.com/products/platform/), I create [Music](/music) and spend time with my [baby boy](https://www.instagram.com/baby\_\_\_\_kai/?hl=en).
+Other than developing technical information for [Solace PubSub+ products](https://solace.com/products/platform/), I create [Music](/music) and spend time with [Kai](https://www.instagram.com/baby\_\_\_\_kai/?hl=en).
