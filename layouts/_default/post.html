@@ -36,6 +36,9 @@
             <header class="post-header">
               <h3 class="post-title"><a href="#" rel="bookmark">Previous Post Title</a></h3>
             </header>
+            {{ with .PreviousInSection }}
+  <a href="{{ .Permalink }}">{{ .Title }}</a>
+{{ end }}
             <div class="post-content">
               <p>Previous post excerpt...</p>
             </div>
