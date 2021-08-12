@@ -10,8 +10,6 @@ As an introspective singer-composer, I love creating music that gives listeners 
 
 I was born and brought up in Darjeeling and grew up listening to bands and musicians like Extreme, Dream Theatre, Europe, George Benson, Jaco Pastorius, Al Jarreau, Bill Withers, Prince, Miles Davis, RHCP, and Jamiroquai,  to name a few. We are talking about the 90s and mixtapes here. From a small-town boy mixing tapes, I now make my own music, taking inspiration from the bands that I grew up listening to yet staying close to my roots.
 
-In 2007, I moved to New Zealand (NZ) to pursue higher studies. New Zealanders love reggae, and bands like Fat Freddy’s Drop, Trinity Roots, Kora, The Black Seeds, and Katchafire were creating some fantastic music. There is a significant influence of NZ music in the song called “Sinking in Love” that I am currently working on. I anticipate releasing the song in early 2022.
-
 I am based in Ottawa and record music in my home studio.
 
 ### <a name="songs"></a>
