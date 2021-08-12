@@ -49,8 +49,10 @@
             <a class="post-thumbnail" href="#"><img src="#" alt="" /></a>
             <header class="post-header">
               <h3 class="post-title"><a href="#" rel="bookmark">Next Post Title</a></h3>
-              
             </header>
+            {{ if nextpost.exists }} #. becomes nexpost here
+  <a href="{{ .Permalink }}">{{ .Title }}</a>
+{{ end }}
             <div class="post-content">
               <p>Next post excerpt...</p>
             </div>
