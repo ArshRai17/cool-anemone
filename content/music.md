@@ -1,5 +1,5 @@
 ---
-title: music
+title: Music
 subtitle: >-
   It's only when I am playing an instrument or singing, I can let go of
   everything else and just be in that moment.
