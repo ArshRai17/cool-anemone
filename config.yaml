@@ -62,7 +62,7 @@ params:
         new_window: true
       - type: action
         label: Twitter
-        url: 'https://twitter.com/arshrai_?lang=en'
+        url: 'https://arshrai-ca.medium.com/'
         style: icon
         icon_class: fa-medium
         new_window: true
