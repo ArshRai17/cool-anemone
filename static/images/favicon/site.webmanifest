@@ -20,7 +20,12 @@
     "src": "/images/favicon/favicon-16x16.png",
     "sizes": "512x512",
     "type": "image/png"
+  }, {
+    "src": "/images/favicon/favicon-16x16.png",
+    "sizes": "512x512",
+    "type": "image/png"
   }
+  
   
   ],
   "theme_color": "#ffffff",
