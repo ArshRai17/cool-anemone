@@ -64,7 +64,7 @@ params:
         label: Twitter
         url: 'https://twitter.com/arshrai_?lang=en'
         style: icon
-        icon_class: fa-twitter
+        icon_class: fa-medium
         new_window: true
   footer:
     type: footer
