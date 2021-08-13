@@ -47,6 +47,12 @@ params:
         style: icon
         icon_class: fa-github
         new_window: true
+      - type: action
+        label: Medium
+        url: 'https://arshrai-ca.medium.com/'
+        style: icon
+        icon_class: fa-medium
+        new_window: true
       - label: youtube
         url: 'https://www.youtube.com/channel/UCswslInf1qC9DJIcYkWSyRg/featured'
         style: icon
@@ -59,12 +65,6 @@ params:
         url: 'https://www.instagram.com/rcb___rai/'
         style: icon
         icon_class: fa-instagram
-        new_window: true
-      - type: action
-        label: Medium
-        url: 'https://arshrai-ca.medium.com/'
-        style: icon
-        icon_class: fa-medium
         new_window: true
   footer:
     type: footer
