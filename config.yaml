@@ -61,7 +61,7 @@ params:
         icon_class: fa-instagram
         new_window: true
       - type: action
-        label: Twitter
+        label: Medium
         url: 'https://arshrai-ca.medium.com/'
         style: icon
         icon_class: fa-medium
