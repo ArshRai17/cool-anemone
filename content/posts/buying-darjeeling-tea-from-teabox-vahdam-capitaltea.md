@@ -29,7 +29,7 @@ As a customer, you can provide comments and feedback for each tea, which is publ
 
 #### Tea Selection
 
-As they deal directly with the tea estates, they always have a good inventory of tea, and the selection was even better this year. I saw some of my favourite second flushes, Giddhapahar, Margarets Hope, Castletonton, Jungpaana, and Seeyok, on their website before any other sellers had it!
+As they deal directly with the tea estates, they always have a good inventory of tea, and the selection was even better this year. I saw some of my favourite second flushes: Giddhapahar, Margarets Hope, Castletonton, Jungpaana, and Seeyok, on their website before any other sellers had it!
 
 #### Tea Quality
 
