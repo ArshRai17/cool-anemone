@@ -8,6 +8,15 @@ thumb_img_path: /images/artwork-yo-bato.jpg
 content_img_path: /images/artwork-yo-bato.jpg
 excerpt: 'The story behind Arsh''s debut single, Yo Bato.'
 layout: post
+
+title: 'Reviewing Teabox, Capital Tea, and Vahdam Teas'
+date: '2021-08-04'
+thumb_img_path: /images/tea-sellers-review.png
+thumb_img_alt: Hikers on the trail
+content_img_path: /images/tea-sellers-review.png
+content_img_alt: Hikers on the trail
+excerpt: A review of a few online retailers I use to buy Darjeeling teas.
+layout: post
 ---
 Coming soon!
 <!-- 
