@@ -57,7 +57,7 @@ My first experience with Capital Tea was disappointing as they misplaced my parc
 
 #### Website
 
-They have a simple website, but it’s easy to navigate and find the products. The “New Arrivals” option is helpful to check what’s new on their inventory quickly. I also love the drag and drop option to add tea to your cart from the landing page directly.
+They have a simple website, but it’s easy to navigate and find the products. The “New Arrivals” option is helpful to check what’s new on their inventory quickly. I also love the drag and drop option to add tea to your cart from the landing page.
 
 #### Tea Inventory
 
