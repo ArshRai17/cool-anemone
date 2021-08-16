@@ -25,7 +25,7 @@ I have been regularly buying tea from Teabox, and I have had nothing but good ex
 
 I love their website, and the web experience is fun. I like that the images and feelings are focused more on the tea itself rather than imposing their brand on the face. A subtle, product-focused marketing is good marketing, in my humble opinion. The ability to hover your cursor on top of an image and quickly add the tea to your cart is handy and avoids extra clicks. They provide a detailed description of each tea and its life cycle  - from the plucking date to processing, sorting, vacuum packing, storing and shipping dates. Nice!
 
-As a customer, you can provide comments and feedback for each tea published in the comments section. However, I would be skeptical, as only positive comments are published. They did not post y last negative comment about a teaspoon I bought from their website.
+As a customer, you can provide comments and feedback for each tea, which is published in the comments section. However, I would be skeptical, as only positive comments are published. They did not post y last negative comment about a teaspoon I bought from their website.
 
 #### Tea Selection
 
