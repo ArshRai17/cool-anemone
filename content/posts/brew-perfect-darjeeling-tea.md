@@ -46,7 +46,7 @@ While the water is boiling, get your tea leaves ready. If you are brewing a cup 
 
 ## Step 3: Brew your tea
 
-Pour the boiled water into your cup or pot and let it brew for four minutes. Once again, brew-time for your tea depends on whether you like your tea strong or light. I like my tea strong and robust; it brings out the muscatel flavour and a nice after-taste. I brew my tea between four to five minutes. My best advice is to sip your tea as it brews until you get the flavour you like. Note that brewing longer than five minutes will potentially create some bitterness.
+Pour the boiled water into your cup or pot and let it brew for four minutes. Once again, brew-time for your tea depends on whether you like your tea strong or light. I like my tea strong and robust; it brings out the muscatel flavour and a nice after-taste. Therefore, I brew my tea between four to five minutes. My best advice is to sip your tea as it brews until you get the flavour you like. Note that brewing longer than five minutes will potentially create some bitterness.
 
 ## Step 4: Let it rest
 
