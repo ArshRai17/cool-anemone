@@ -8,7 +8,7 @@ excerpt: >-
   dependent, and seeing it grow and change every day.
 canonical_url: lorem-ipsum
 layout: post
-thumb_img_path: /images/ARS00927-01.png
+thumb_img_path: /images/ARS00927-01-c8cd14b1.png
 content_img_path: /images/ARS00927-01.png
 ---
 Today when I look back, holding my baby boy, it just feels like yesterday when I saw my wife overwhelmed with joy holding the positive pregnancy test results. Finally, “we were pregnant,” after all the planning and effort. Phew! I did not know how to react then, but I became a father the moment I heard the news. It can be daunting for men because we don't have those pregnancy hormones playing up. I was delighted but did not know how to express it as my wife did. Pregnancy is beautiful, and women are fortunate to feel them from the time they conceive. They are connected so deeply; it's amusing. Let's not talk about the morning sickness, nausea, hunger pangs etc., but when there is a life-generating within you, your body does take time to prepare itself. I did not have the privilege of witnessing all these in those nine months, but everything came like a wrecking ball when Dr. Sheppard pulled our boy out. I know it sounds graphic, but it was indeed a pull. A messy little baby boy, covered in slime and crying loudly, "Waah, Waah." The next thing I remember is me welling up. It was like an epiphany to me and the sheer joy of seeing a blessing in the form of our baby boy.
