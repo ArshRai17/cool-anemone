@@ -1,4 +1,4 @@
-³---
+---
 title: Home
 hide_title: true
 sections:
