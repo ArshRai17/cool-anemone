@@ -19,7 +19,7 @@ As a Darjeelingey, I prefer getting my tea directly from Darjeeling. I ask my fo
 
 ## Teabox
 
-I have been regularly buying tea from Teabox, and I have had nothing but good experiences. They are based in Siliguri, West Bengal, which is a few hours away from Darjeeling. The entire journey has been excellent, from their website and product to delivery and customer service.
+I have been regularly buying tea from [Teabox, and I have had nothing but good experiences. They are based in Siliguri, West Bengal, which is a few hours away from Darjeeling. The entire journey has been excellent, from their website and product to delivery and customer service.
 
 #### Website
 
