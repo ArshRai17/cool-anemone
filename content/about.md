@@ -5,7 +5,7 @@ img_path: /images/website-image-profile-photo.png
 img_alt: Arsh's profile picture
 layout: page
 ---
-I am a content designer and UX writer based in [Ottawa](https://theplanetd.com/things-to-do-in-ottawa/).
+I am a content designer and UX writer based in [Ottawa](https://theplanetd.com/things-to-do-in-ottawa/){:target="_blank" rel="noopener"}.
 
 Over the last decade (and more), I’ve:
 
