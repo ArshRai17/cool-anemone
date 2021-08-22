@@ -83,7 +83,7 @@ Not the best customer service. Their response time is slow, and you can never re
 
 <a name="vahdam-teas"></a>
 
-## [Vahdam Teas](https://www.vahdam.com/?target=_blank)
+## [Vahdam Teas](https://www.vahdam.com/?target=_blank) <a href="https://www.vahdam.com" target="_blank">Vahdam Teas.</a>
 
 Vahdam Teas is a Noida-based retailer and exporter of fine teas. I started buying from them this year. My experience has been good so far, other than the import tax that I had to pay, which they resolved quickly.
 
