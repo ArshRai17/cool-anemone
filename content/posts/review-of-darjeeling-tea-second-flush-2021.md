@@ -12,9 +12,7 @@ excerpt: >-
   estates in Darjeeling. Here is my quick review.
 layout: post
 ---
-I finally got my hands on Darjeeling’s 2021 second flushes. Yay! I bought these from [Vahdam Teas](https://www.vahdam.com/).
-
-<a href="https://www.vahdam.com" target="_blank">Vahdam Teas.</a>
+I finally got my hands on Darjeeling’s 2021 second flushes. Yay! I bought these from <a href="https://www.vahdam.com" target="_blank">Vahdam Teas.</a>
 
 I am so excited to write about these fine teas as much as I was excited to drink them. I drink teas from these estates regularly, but every new batch tastes different, with distinct differences in flavour, aroma and taste, and hence it's worth talking about.
 
