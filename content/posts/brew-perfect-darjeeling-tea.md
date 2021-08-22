@@ -26,7 +26,7 @@ You will need:
 
 *   Teacup. I like to see the colour of my tea as it brews, so [I love these teacups](https://www.amazon.ca/gp/product/B078PFY9RV/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B078PFY9RV\&linkId=2156758695fede503f84a7908f787bf5) 
 
-<a href="https://shop.chayi.ca/?target=_blank" target="_blank">Cha Yi tea house.</a>
+<a href="https://www.amazon.ca/gp/product/B078PFY9RV/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B078PFY9RV\&linkId=2156758695fede503f84a7908f787bf5" target="_blank">Cha Yi tea house.</a>
 
 for everyday use.
 
