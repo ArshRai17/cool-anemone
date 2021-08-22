@@ -24,7 +24,7 @@ You will need:
 
 *   Teaspoon. You can [buy a nice one from Amazon](https://www.amazon.ca/gp/product/B074L4MZRY/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B074L4MZRY\&linkId=3e915dd2da8deeeefa237435acfa3be8).
 
-<a href="https://shop.chayi.ca/?target=_blank" target="_blank">Cha Yi tea house.</a>
+<a href="https://www.amazon.ca/gp/product/B074L4MZRY/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B074L4MZRY\&linkId=3e915dd2da8deeeefa237435acfa3be8" target="_blank">Cha Yi tea house.</a>
 
 *   Teacup. I like to see the colour of my tea as it brews, so [I love these teacups](https://www.amazon.ca/gp/product/B078PFY9RV/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B078PFY9RV\&linkId=2156758695fede503f84a7908f787bf5) for everyday use.
 
