@@ -14,6 +14,8 @@ layout: post
 ---
 I finally got my hands on Darjeeling’s 2021 second flushes. Yay! I bought these from [Vahdam Teas](https://www.vahdam.com/).
 
+<a href="https://www.amazon.ca/gp/product/B074L4MZRY/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B074L4MZRY\&linkId=3e915dd2da8deeeefa237435acfa3be8" target="_blank">buy a nice one from Amazon.</a>
+
 I am so excited to write about these fine teas as much as I was excited to drink them. I drink teas from these estates regularly, but every new batch tastes different, with distinct differences in flavour, aroma and taste, and hence it's worth talking about.
 
 I will start with my staple and a favourite, Margaret’s Hope.
