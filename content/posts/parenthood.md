@@ -11,7 +11,7 @@ layout: post
 thumb_img_path: /images/ARS00927-01-c8cd14b1.png
 content_img_path: /images/ARS00927-01.png
 ---
-This picture was taken at [Dominion Arboretum](https://www.tripadvisor.ca/Attraction_Review-g155004-d282862-Reviews-Arboretum_Experimental_Farm-Ottawa_Ontario.html?target=_blank) on Canada Day 2021.
+This picture was taken at <a href="https://www.tripadvisor.ca/Attraction_Review-g155004-d282862-Reviews-Arboretum_Experimental_Farm-Ottawa_Ontario.html" target="_blank">Dominion Arboretum</a> on Canada Day 2021.
 
 
 
