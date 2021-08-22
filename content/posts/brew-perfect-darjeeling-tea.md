@@ -14,6 +14,8 @@ content_img_path: /images/tea-darjeeling.jpg
 ---
 I captured this image at [Cha Yi tea house.](https://shop.chayi.ca/?target=_blank)
 
+<a href="https://www.tripadvisor.ca/Attraction_Review-g155004-d282862-Reviews-Arboretum_Experimental_Farm-Ottawa_Ontario.html" target="_blank">Dominion Arboretum</a>
+
 There are a few things in my life that I cannot live without, and Darjeeling tea is one of those delights. The process of brewing a perfect cup of Darjeeling tea is simple, but you will need a few things.
 
 You will need:
