@@ -30,7 +30,7 @@ You will need:
 
 *   [Tea infuser](https://www.amazon.ca/gp/product/B082HGWPFV/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B082HGWPFV\&linkId=aefb538fad7306adf13ea05ab128659b) 
 
-<a href="https://www.amazon.ca/gp/product/B082HGWPFV/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B082HGWPFV\&linkId=aefb538fad7306adf13ea05ab128659b" target="_blank">
+
 if you are brewing one cup.
 
 *   Filtered water. The chlorine in the tap water spoils the flavour.
