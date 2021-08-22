@@ -20,7 +20,7 @@ You will need:
 
 *   Second or first flush Darjeeling tea. I only drink the second flush!
 
-*   Temperature control kettle or a thermometer. I use [Cusintart's programmable kettle](https://www.amazon.ca/gp/product/B003WEAHUY/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B003WEAHUY\&linkId=dc2f5a7b1d05c5d6f7c093b884592e2f) <a href="https://www.amazon.ca/gp/product/B003WEAHUY/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B003WEAHUY\&linkId=dc2f5a7b1d05c5d6f7c093b884592e2f" target="_blank">Cha Yi tea house.</a>and I love it!
+*   Temperature control kettle or a thermometer. I use [Cusintart's programmable kettle](https://www.amazon.ca/gp/product/B003WEAHUY/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B003WEAHUY\&linkId=dc2f5a7b1d05c5d6f7c093b884592e2f) <a href="https://www.amazon.ca/gp/product/B003WEAHUY/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B003WEAHUY\&linkId=dc2f5a7b1d05c5d6f7c093b884592e2f" target="_blank">Cusintart's programmable kettle.</a> and I love it!
 
 *   Teaspoon. You can [buy a nice one from Amazon](https://www.amazon.ca/gp/product/B074L4MZRY/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B074L4MZRY\&linkId=3e915dd2da8deeeefa237435acfa3be8).
 
