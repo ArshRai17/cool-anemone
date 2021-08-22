@@ -26,9 +26,7 @@ You will need:
 
 *   Teacup. I like to see the colour of my tea as it brews, so <a href="https://www.amazon.ca/gp/product/B078PFY9RV/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B078PFY9RV\&linkId=2156758695fede503f84a7908f787bf5" target="_blank">I love these teacups</a> for everyday use.
 
-*   Teapot with an infuser or a separate infuser for your cup. You can also use a regular teapot and strain the tea before serving. [This teapot is perfect for two cups.](https://www.amazon.ca/gp/product/B07KXSDQ9G/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B07KXSDQ9G\&linkId=7cb182cbaa75ecea6ddc78c34583f37b)
-
-<a href="https://www.amazon.ca/gp/product/B07KXSDQ9G/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B07KXSDQ9G\&linkId=7cb182cbaa75ecea6ddc78c34583f37b" target="_blank">This teapot is perfect for two cups.</a>
+*   Teapot with an infuser or a separate infuser for your cup. You can also use a regular teapot and strain the tea before serving.< a href="https://www.amazon.ca/gp/product/B07KXSDQ9G/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B07KXSDQ9G\&linkId=7cb182cbaa75ecea6ddc78c34583f37b" target="_blank">This teapot is perfect for two cups.</a>
 
 *   [Tea infuser](https://www.amazon.ca/gp/product/B082HGWPFV/ref=as_li_qf_asin_il_tl?ie=UTF8\&tag=arshabhirai20-20\&creative=330641\&linkCode=as2\&creativeASIN=B082HGWPFV\&linkId=aefb538fad7306adf13ea05ab128659b) if you are brewing one cup.
 
