@@ -4,6 +4,9 @@ date: '2021-08-25'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 layout: post
+excerpt: >-
+  So, I finally decided to get a Stratocaster. Yes, the name sounds like an
+  intergalactic spaceship.
 ---
 As I lie down, getting cuppings and electrical stimulation on my back, after the wonderful effects of WFH, my mind wanders about to my guitar. 
 
