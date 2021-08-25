@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Where is my Stratocaster
 subtitle: lorem-ipsum
 date: '2021-08-25'
 thumb_img_alt: lorem-ipsum
