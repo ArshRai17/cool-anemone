@@ -3,7 +3,7 @@ title: Where is my Stratocaster
 date: '2021-08-25'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: "So,\_I\_finally\_decided\_to\_get\_a\_Stratocaster.\_Yes,\_the\_name\_sounds\_like\_an\_intergalactic\_spaceship."
 layout: post
 ---
 As I lie down, getting cuppings and electrical stimulation on my back, after the wonderful effects of WFH, my mind wanders about to my guitar. 
