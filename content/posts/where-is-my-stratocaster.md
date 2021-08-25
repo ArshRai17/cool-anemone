@@ -1,5 +1,5 @@
 ---
-title: Where is my Stratocaster
+title: Where is my Stratocaster?
 date: '2021-08-25'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
