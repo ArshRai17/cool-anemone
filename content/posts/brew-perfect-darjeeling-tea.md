@@ -4,7 +4,6 @@ subtitle: Life is too short to drink bad tea!
 date: '2021-06-29'
 thumb_img_alt: Darjeeing Tea Brewed
 content_img_alt: Darjeeling Tea Brewed
-canonical_url: lorem-ipsum
 layout: post
 excerpt: >-
   There are a few things in my life that I cannot live without, and Darjeeling
