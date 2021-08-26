@@ -62,7 +62,7 @@ params:
         type: action
       - type: action
         label: Instagram
-        url: 'https://www.instagram.com/rcb___rai/'
+        url: Page Not Found
         style: icon
         icon_class: fa-instagram
         new_window: true
