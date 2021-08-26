@@ -26,4 +26,4 @@ Let's say the electric stimulation is helping my back, but it's messing with my 
 
 P.s. My wife and I were indeed [blessed with a baby boy]({{< ref "/parenthood" >}}  six months ago.
 
-[How to brew a perfect cup of Darjeeling tea]({{< ref "/brew-perfect-darjeeling-tea" >}} "How to brew a perfect cup of Darjeeling tea")
+[blessed with a baby boy]({{< ref "/brew-perfect-darjeeling-tea" >}} "blessed with a baby boy")
