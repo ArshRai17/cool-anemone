@@ -62,7 +62,7 @@ params:
         type: action
       - type: action
         label: Instagram
-        url: Page Not Found
+        url: 'Page Not Foundhttps://www.instagram.com/arshraimusic/'
         style: icon
         icon_class: fa-instagram
         new_window: true
