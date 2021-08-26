@@ -12,7 +12,7 @@ content_img_path: /images/strat-3.png
 ---
 As I lie down, getting cuppings and electrical stimulation on my back, after the wonderful effects of WFH, my mind wanders about to my guitar. 
 
-The best thing about COVID is impulse buying. No wonder online businesses never went bust. And, for a person who is impatient and impulsive, Fender's American Pro II Stratocaster sure looked like Jessica Rabbit working her charms. I need to give a little kudos to myself because I did help a lot of online businesses: extravagant spending on music-related gadgets and then decided to have a kid in these uncertain times. Voilà!  
+The best thing about COVID is impulse buying. No wonder online businesses never went bust. And, for a person who is impatient and impulsive, Fender's American Pro II Stratocaster sure looked like Jessica Rabbit working her charms. I need to give a little kudos to myself because I did help a lot of online businesses with my extravagant spending on music-related gadgets and then deciding to have a kid in these uncertain times. Voilà!  
 
 I never knew what muslin clothes were, nor did I know that diapers came in sizes, but there I was juggling my Jessica Rabbit (Oh, the Fender, I mean) and diapers!! And thanks to the cookies, the one in the kitchen knows when I want one and the one on my browser knows what I exactly want. Anyhow, I am not here to talk about my impulsive buying habits, but rather the after-effects of impulsive buying and having to wait.
 
