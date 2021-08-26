@@ -8,6 +8,7 @@ excerpt: >-
   So, I finally decided to get a Stratocaster. Yes, the name sounds like an
   intergalactic spaceship.
 thumb_img_path: /images/strat-3.png
+content_img_path: /images/strat-3.png
 ---
 As I lie down, getting cuppings and electrical stimulation on my back, after the wonderful effects of WFH, my mind wanders about to my guitar. 
 
