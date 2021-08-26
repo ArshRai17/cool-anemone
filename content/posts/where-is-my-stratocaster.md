@@ -25,3 +25,5 @@ The ETA that Long & Mcquade kindly gave me is April 2022, and that's just estima
 Let's say the electric stimulation is helping my back, but it's messing with my head. I am grinning, while getting cupped, just thinking bout my guitar. I know I do have a little Drama Queen in me, but anything for a Strat. I am eager to get my hands on it, and that moment will be emotional for me. I might even end up looking like a beauty queen who just got crowned; or, maybe I will go through the same emo moments that I had in the labour room. Or, I might grow really old and die waiting for the dispatch date of an estimated time.
 
 P.s. My wife and I were indeed [blessed with a baby boy]({{< ref "/parenthood" >}}  six months ago.
+
+[How to brew a perfect cup of Darjeeling tea]({{< ref "/brew-perfect-darjeeling-tea" >}}
