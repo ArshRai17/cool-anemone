@@ -4,7 +4,7 @@ subtitle: >-
   It's only when I am playing an instrument or singing, I can let go of
   everything else and just be in that moment.
 img_path: /images/website-music-photo.png
-img_alt: Arsh's music profile
+img_alt: Arsh's music profile image
 layout: page
 ---
 As an introspective singer-composer, I love creating music that gives listeners a fresh perspective and an impression to ponder over. I enjoy combining funk, blues, jazz, reggae and rock with mellow Nepali folk and contemporary music.  In September 2021, I will be releasing my first single, Yo Bato—a Nepali funk number filled with swanky bass lines, vocal harmonies, and punchy rhythm guitars.
