@@ -10,7 +10,7 @@ excerpt: >-
 thumb_img_path: /images/strat-3.png
 content_img_path: /images/strat-3.png
 ---
-As I lie down, getting cuppings and electrical stimulation on my back, after the wonderful effects of WFH, my mind wanders about to my guitar. 
+As I lie down, getting cuppings and electrical stimulation on my back, my mind wanders about to my guitar. 
 
 The best thing about COVID is impulse buying. No wonder online businesses never went bust. And, for a person who is impatient and impulsive, Fender's American Pro II Stratocaster sure looked like Jessica Rabbit working her charms. I need to give a little kudos to myself because I did help a lot of online businesses with my extravagant spending on music-related gadgets and then deciding to have a kid in these uncertain times. Voilà!  
 
@@ -24,4 +24,4 @@ The ETA that folks at Long & Mcquade kindly gave me is April 2022, and that's ju
 
 Let's say the electric stimulation is helping my back, but it's also messing with my head. I am grinning, while getting cupped, just thinking about my guitar. I know I do have a little Drama Queen in me, but anything for a Strat. I am eager to get my hands on it, and that moment will be emotional for me. I might even end up looking like a beauty queen who just got crowned; or, maybe I will go through the same emo moments that I had in the labour room. Or, I might grow really old and die waiting for the dispatch date of an estimated time.
 
-P.s. My wife and I were indeed [blessed with a baby boy]({{< ref "/parenthood" >}} "blessed with a baby boy")  six months ago.
+P.s. My wife and I were indeed \[blessed with a baby boy]\({{< ref "/parenthood" >}} "blessed with a baby boy")  six months ago.
