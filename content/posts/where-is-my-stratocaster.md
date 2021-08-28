@@ -10,7 +10,7 @@ excerpt: >-
 thumb_img_path: /images/strat-3.png
 content_img_path: /images/strat-3.png
 ---
-As I lie down, getting cuppings and electrical stimulation on my back, my mind wanders about to my guitar. 
+As I lie down, getting cuppings and electrical stimulation on my back - yes, the joys of chronic back pain - my mind wanders about to my guitar. 
 
 The best thing about COVID is impulse buying. No wonder online businesses never went bust. And, for a person who is impatient and impulsive, Fender's American Pro II Stratocaster sure looked like Jessica Rabbit working her charms. I need to give a little kudos to myself because I did help a lot of online businesses with my extravagant spending on music-related gadgets and then deciding to have a kid in these uncertain times. Voilà!  
 
@@ -20,7 +20,7 @@ So, I finally decided to get a <a href="https://www.long-mcquade.com/209540/Guit
 
 ![](/\_static/app-assets/strat-2.png)
 
-The ETA that folks at Long & Mcquade kindly gave me is April 2022, and that's just estimated. When I break my fingers counting the months, it comes to a full nine months of WAIT. Which pretty much makes me revisit the time I had to wait for my baby boy to join this marvelous world. The wait for my child was exciting because I could see him during the ultrasound sessions and feel his movements. But, Long & Mcquade does not provide such services, where I could see the craftsman working on my guitar and me on the other side feeling emo looking at the craftsman strategically tying strings on my baby, I mean the guitar. It's too much to ask for, I know, but also makes sense when you've agreed to wait for nine long months.  
+The ETA that folks at Long & Mcquade kindly gave me is April 2022, and that's just estimated. When I break my fingers counting the months, it comes to a full nine months of WAIT. Which pretty much makes me revisit the time I had to wait for my baby boy to join this marvellous world. The wait for my child was exciting because I could see him during the ultrasound sessions and feel his movements. But, Long & Mcquade does not provide such services, where I could see the craftsman working on my guitar and me on the other side feeling emo looking at the craftsman strategically tying strings on my baby, I mean the guitar. It's too much to ask for, I know, but also makes sense when you've agreed to wait for nine long months.  
 
 Let's say the electric stimulation is helping my back, but it's also messing with my head. I am grinning, while getting cupped, just thinking about my guitar. I know I do have a little Drama Queen in me, but anything for a Strat. I am eager to get my hands on it, and that moment will be emotional for me. I might even end up looking like a beauty queen who just got crowned; or, maybe I will go through the same emo moments that I had in the labour room. Or, I might grow really old and die waiting for the dispatch date of an estimated time.
 
