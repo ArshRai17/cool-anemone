@@ -1,6 +1,6 @@
 ---
 title: Yo Bato
-date: '2021-08-09'
+date: '2021-09-09'
 thumb_img_alt: Yo Bato Artwork
 content_img_alt: Yo Bato Artwork
 thumb_img_path: /images/artwork-yo-bato.jpg
