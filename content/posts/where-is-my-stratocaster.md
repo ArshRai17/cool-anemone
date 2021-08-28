@@ -1,6 +1,6 @@
 ---
 title: 'Fender, where is my Stratocaster?'
-date: '2021-08-28'
+date: '2021-08-29'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 layout: post
