@@ -18,7 +18,7 @@ I never knew what muslin clothes were, nor did I know that diapers came in sizes
 
 So, I finally decided to get a  Stratocaster. Yes, the name sounds like an intergalactic spaceship. Sadly, the waiting period to get a hold of just one Fender American Pro II Strat is so long that I feel the components get shipped from Mars. Since Richard Branson has already launched his Virgin Galactic, it would not surprise me at all if they say they are collecting unicorn tails for the strings, getting the wood from Narnia, or they got lost in the closet. 
 
-![](/\_static/app-assets/strat-2.png)
+![Richard Brandson holding Strat](/\_static/app-assets/strat-2.png)
 
 The ETA that folks at Long & Mcquade kindly gave me is April 2022, and that's just estimated. When I break my fingers counting the months, it comes to a full nine months of WAIT. Which pretty much makes me revisit the time I had to wait for my baby boy to join this marvellous world. The wait for my child was exciting because I could see him during the ultrasound sessions and feel his movements. But, Long & Mcquade does not provide such services, where I could see the craftsman working on my guitar and me on the other side feeling emo looking at the craftsman strategically tying strings on my baby, I mean the guitar. It's too much to ask for, I know, but also makes sense when you've agreed to wait for nine long months.  
 
