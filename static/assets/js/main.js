@@ -13,7 +13,7 @@ reframe(videoEmbeds.join(','));
 var menuToggle = document.getElementById('menu-toggle');
 if (menuToggle) {
   menuToggle.addEventListener('click', function(e){
-    document.body.classList.toggle('menu--opened');
+    document.body.classList.toggle('');
     e.preventDefault();
   },false);
   document.body.classList.remove('menu--opened');
