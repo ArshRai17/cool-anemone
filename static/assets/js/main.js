@@ -20,7 +20,7 @@ if (menuToggle) {
 
   window.addEventListener('resize', function () {
     if (menuToggle.offsetParent === null) {
-      document.body.classList.remove('menu--opened');
+      document.body.classList.remove('');
     }
   }, true);
 }
