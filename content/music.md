@@ -17,11 +17,3 @@ I was born and brought up in Darjeeling and grew up listening to bands and music
 
 
 *   Yo Bato
-
-*   Sinking in Love
-
-*   Eh Nani!
-
-*   [Santa is Coming (with a bag full of vaccines)](https://www.instagram.com/tv/CIYl4FBhNj7/?utm_source=ig_web_copy_link) - Wrote this roughly mixed song as part of [Solace's](https://solace.com/) annual celebration.
-
--->
