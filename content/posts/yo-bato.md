@@ -19,5 +19,7 @@ Yo Bato was recorded in Arsh's make-do home studio and mixed and mastered by [Ol
 
 *Listen to Yo Bato on your favourite streaming service.
 
-*Watch Yo Bato's music video on YouTube*
+https://distrokid.com/hyperfollow/arshrai/yo-bato
+
+
 
