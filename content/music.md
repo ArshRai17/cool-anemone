@@ -14,9 +14,8 @@ I was born and brought up in Darjeeling and grew up listening to bands and music
 
 ## My Compositions
 
-Coming soon
 
-<!-- 
+
 *   Yo Bato
 
 *   Sinking in Love
