@@ -17,4 +17,4 @@ I was born and brought up in Darjeeling and grew up listening to bands and music
 
 [Yo Bato](https://distrokid.com/hyperfollow/arshrai/yo-bato)
 
-![Richard Brandson holding Strat](https://www.arshabhirai.com/images/strat-2.png)
+[![Richard Brandson holding Strat](https://www.arshabhirai.com/images/strat-2.png)]()
