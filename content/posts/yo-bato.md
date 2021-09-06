@@ -4,7 +4,7 @@ date: '2021-09-29'
 thumb_img_alt: Yo Bato Artwork
 content_img_alt: Yo Bato Artwork
 thumb_img_path: /images/artwork-yo-bato.png
-content_img_path: /images/artwork-yo-bato.jpg
+content_img_path: /images/artwork-yo-bato.png
 excerpt: 'The story behind Arsh''s debut single, Yo Bato.'
 layout: post
 ---
