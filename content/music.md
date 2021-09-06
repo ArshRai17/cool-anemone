@@ -7,16 +7,13 @@ img_path: /images/website-music-photo.png
 img_alt: Arsh's music profile image
 layout: page
 ---
-As an introspective singer-composer, I love creating music that gives listeners a fresh perspective and an impression to ponder over. I enjoy combining funk, blues, jazz, reggae and rock with mellow Nepali folk and contemporary music. 
+As an introspective singer-composer, I love creating music that gives listeners a fresh perspective and an impression to ponder over. I enjoy combining funk, blues, jazz, reggae and rock with mellow Nepali folk and contemporary music.
 
-Yo Bato, my debut single, was released on September 2021. A Nepali funk number that blends American funk with contemporary Nepali music.
-
-I was born and brought up in Darjeeling and grew up listening to bands and musicians like Extreme, Dream Theatre, Europe, George Benson, Jaco Pastorius, Al Jarreau, Bill Withers, Prince, RHCP, and Jamiroquai,  to name a few. We are talking about the 90s and mixtapes here. From a small-town boy mixing tapes, I now make my own music, taking inspiration from the bands that I grew up listening to yet staying close to my roots.
+My debut single, Yo Bato, was released on September 2021. A Nepali funk number that blends American funk with contemporary Nepali music.
 
 ### <a name="songs"></a>
 
 ## My Compositions
-
 
 [Yo Bato](https://distrokid.com/hyperfollow/arshrai/yo-bato)
 
