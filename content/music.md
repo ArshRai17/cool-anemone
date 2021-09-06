@@ -7,7 +7,7 @@ img_path: /images/website-music-photo.png
 img_alt: Arsh's music profile image
 layout: page
 ---
-As an introspective singer-composer, I love creating music that gives listeners a fresh perspective and an impression to ponder over. I enjoy combining funk, blues, jazz, reggae and rock with mellow Nepali folk and contemporary music. My first single, Yo Bato, was release
+As an introspective singer-composer, I love creating music that gives listeners a fresh perspective and an impression to ponder over. I enjoy combining funk, blues, jazz, reggae and rock with mellow Nepali folk and contemporary music. y first single, Yo Bato—
 
 a Nepali funk number filled with swanky bass lines, vocal harmonies, and punchy rhythm guitars.
 
