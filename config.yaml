@@ -7,7 +7,7 @@ params:
   header:
     type: header
     title: Arsh Rai
-    tagline: Content Designer | UX Writer | Music Enhusiast
+    tagline: Content Designer | UX Writer
     profile_img: /images/website-image-profile-photo.png
     profile_img_alt: Author avatar
     background: dark
