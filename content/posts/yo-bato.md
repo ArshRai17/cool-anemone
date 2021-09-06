@@ -18,4 +18,4 @@ Yo Bato was recorded in Arsh's home studio and mixed and mastered by [Oliver Wag
 
 *For more information, promo requests, or to arrange an interview, *[*contact Arsh*](/contact)*.*
 
-#### Listen to Yo Bato on your favourite [streaming service](https://distrokid.com/hyperfollow/arshrai/yo-bato).
+##### Listen to Yo Bato on your favourite [streaming service](https://distrokid.com/hyperfollow/arshrai/yo-bato).
