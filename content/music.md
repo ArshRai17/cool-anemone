@@ -18,4 +18,4 @@ I was born and brought up in Darjeeling and grew up listening to bands and music
 
 [Yo Bato](https://distrokid.com/hyperfollow/arshrai/yo-bato)
 
-[![You Bato Artwork](../images/artwork-yo-bato-gallery.jgg)](https://distrokid.com/hyperfollow/arshrai/yo-bato)
+[![You Bato Artwork](../images/artwork-yo-bato-gallery.jpg)](https://distrokid.com/hyperfollow/arshrai/yo-bato)
