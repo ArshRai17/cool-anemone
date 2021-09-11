@@ -1,6 +1,6 @@
 ---
 title: Yo Bato
-subtitle: Life is too short to drink bad tea!
+subtitle: Yo Bato" (This Road) is an ode to life, a journey with many milestones to reach and explore. It's a medley about one's growth, learning and experiences, beautifully entwined together in an uplifting song. No matter where the road (Yo Bato) takes us, we will always reach home. Home can be a warm embrace of your parents, the cooing of your baby, or the faces of your loved ones—these irreplaceable pleasures can be your milestones! 
 date: '2021-09-29'
 thumb_img_alt: Yo Bato Artwork
 content_img_alt: Yo Bato Artwork
