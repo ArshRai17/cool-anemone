@@ -9,7 +9,7 @@ content_img_path: /images/artwork-yo-bato.png
 excerpt: 'The story behind Arsh''s debut single, Yo Bato.'
 layout: post
 ---
-With the extended lockdown and working from home, I could squeeze in time for music, which he diligently used to record the music. Exploring the theme of "YO BATO" was a big step, and recording and mixing the song was a huge learning experience for me. 
+With the extended lockdown and working from home, I could squeeze in time for music, which I diligently used to record the music. Exploring the theme of "YO BATO" was a big step, and recording and mixing the song was a huge learning experience for me. 
 
 I was juggling full-time work, taking care of my baby boy, managing my social life, as well as home and the daily chores. All that with an ailing back. Did that rhyme? That said, I could not have managed it without my wife's support. She has been rock solid!
 
