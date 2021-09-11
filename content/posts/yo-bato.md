@@ -1,5 +1,6 @@
 ---
 title: Yo Bato
+subtitle: Life is too short to drink bad tea!
 date: '2021-09-29'
 thumb_img_alt: Yo Bato Artwork
 content_img_alt: Yo Bato Artwork
