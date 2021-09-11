@@ -31,4 +31,4 @@ So that's pretty much it. A quick summary of all the jazz that I went through to
 
 *For more information about the song, promo requests, or to arrange an interview, *[*contact Arsh*](/contact)*.*
 
-##### Listen to Yo Bato on your favourite <a>streaming service](https://distrokid.com/hyperfollow/arshrai/yo-bato)</a>.
+##### Listen to Yo Bato on your favourite <a>streaming service(https://distrokid.com/hyperfollow/arshrai/yo-bato)</a>.
