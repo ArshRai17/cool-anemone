@@ -21,6 +21,6 @@ After I forced myself to finalize the recording, I did a rough mix of the song a
 
 So that's pretty much it. A quick summary of all the jazz that I went through to record this song. Be open-minded and enjoy listening to unique contemporary Nepali music, and take what resonates with you.
 
-##### Listen to Yo Bato on your favourite .
+##### Listen to Yo Bato on your favourite streaming service.
 
 *For more information about the song, promo requests, or to arrange an interview, *[*contact Arsh*](/contact)*.*
