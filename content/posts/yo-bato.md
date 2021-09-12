@@ -1,6 +1,6 @@
 ---
 title: Yo Bato
-subtitle: "Yo Bato\" (This Road) is a medley about one's\_\_journey,\_growth, learning and experiences, beautifully entwined in an uplifting song. No matter where the road (Yo Bato) takes us, we will always reach home. Home can be a warm embrace of your parents, the cooing of your baby, or the faces of your loved ones—these irreplaceable pleasures can be your milestones!"
+subtitle: "Yo Bato\" (This Road) is a medley about one's\_\_journey,\_growth, learning and experiences, beautifully entwined in an uplifting song. No matter where the road (Yo Bato) takes us, we will always reach home. Home can be a warm embrace of your loved ones, the cooing of your baby, or the faces of your loved ones—these irreplaceable pleasures can be your milestones!"
 date: '2021-09-29'
 thumb_img_alt: Yo Bato Artwork
 content_img_alt: Yo Bato Artwork
