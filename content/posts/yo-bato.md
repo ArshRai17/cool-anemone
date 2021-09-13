@@ -19,7 +19,7 @@ My day gets progressively busy with work and various things-to-do at home. To ma
 
 2.  Work on the hook, which could be the verse, chorus, or some instrumental part
 
-3.  Work the bridge or any additional parts
+3.  Work on the bridge or any additional parts
 
 4.  Get the entire song roughly sorted
 
