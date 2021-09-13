@@ -13,7 +13,7 @@ With the extended lockdown and working from home, I had some spare time in hand,
 
 When I started recording this song, I was juggling full-time work, taking care of my baby boy, managing my social life, as well as home and the daily chores. All that with an ailing back. Did that rhyme? That said, I could not have managed it without my wife's support. She has been rock solid!
 
-My day gets progressively busy with work and various things-to-do at home. To manage my time more efficiently, I used to wake up around 5 a.m. or earlier to record guitar, bass, and keyboard when baby Kai would be asleep. My recording process was something like this in a nutshell (with various caveats that we will not gt into at this time):
+My day gets progressively busy with work and various things-to-do at home. To manage my time more efficiently, I used to wake up around 5 a.m. or earlier to record guitar, bass, and keyboard when baby Kai would be asleep. My recording process was something like this in a nutshell (with various caveats, which we will not get into this time):
 
 1.  Write the main tune
 
