@@ -14,17 +14,6 @@ content_img_path: /images/artwork-yo-bato.png
 excerpt: 'The story behind Arsh''s debut single, Yo Bato.'
 layout: post
 ---
-With the extended lockdown and working from home, I had some spare time in hand, which I diligently used to record some music. Exploring the "YO BATO" theme was a big step, and recording and mixing the song was a huge learning experience. 
-
-As a professional writer, I found that composing music and writing are similar in many ways. Quite often, you have no clue where to start; and, once you start, you pour out everything that flows through your mind, which is often one big chunk of ideas. At that point, your content is rough, unorganized, and incomprehensible. You then edit your rough draft, re-write/re-record several parts, and organize the flow to make some sense out of it. All this, obviously, does not happen in one sitting. After a day or two, you then come back to it and ask yourself - did I actually write/compose that? You write or edit it again, which is quite common for me and create your first draft. Once you are happy with the draft, you hesitantly send it for a peer review. You anxiously wait for their feedback, and when you do get the feedback, you once again realize the value of having a second/third pair of eyes or ears. You incorporate their good feedback and have it ready for an editorial/sound engineer review. The sound engineer probably does a lot more than an editor, and there are many creative aspects that we can't compare, but the process is quite similar. The editor applies his editorial magic, and the sound engineer gives his technical and creative spin to your song. You have to trust them with your life. Ha! A good sound engineer can make or break your piece of music; that much is for sure. Anyhow, I digressed. Let's get on with the story behind Yo Bato.
-
-When I started recording this song, I was juggling full-time work, taking care of my baby boy, managing my social life, home, and the daily chores. All that with an ailing back. Did that rhyme? That said, I could not have managed it without my wife's support. She has been rock solid! To manage my time more efficiently, I used to wake up around 5 a.m. or earlier to record guitar, bass, and keyboard when baby Kai would be asleep. My recording process was something like this in a nutshell (with various caveats, which we will not get into this time):
-
-1.  Compose the main tune, which often happens accidentally or while playing something random
-
-2.  Work on the hook, which could be the verse, chorus, or some instrumental part
-
-3.  Get the entire song roughly sorted
 
 4.  Write the lyrics
 
