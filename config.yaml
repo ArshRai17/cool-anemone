@@ -66,14 +66,6 @@ params:
         style: icon
         icon_class: fa-instagram
         new_window: true
-      - label: Soundcloud
-        url: >-
-          https://soundcloud.com/arshrai/yo-bato?ref=clipboard&p=a&c=1&utm_campaign=social_sharing&utm_medium=text&utm_source=clipboard
-        style: link
-        icon_class: fa-soundcloud
-        new_window: true
-        no_follow: false
-        type: action
   footer:
     type: footer
     content: >-
