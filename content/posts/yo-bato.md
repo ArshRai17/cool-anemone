@@ -1,5 +1,5 @@
 ---
-title: Yo Bato
+title: 'Arsh''s debut single, Yo Bato'
 subtitle: >-
   Yo Bato (This Road) is a medley about one's journey, growth, learning and
   experiences, entwined in an uplifting song.
