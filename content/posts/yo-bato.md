@@ -39,4 +39,3 @@ P.S I am working on my next greatest song in the world. Your support and encoura
 
 ##### Listen to Yo Bato on your favourite <a href="https://distrokid.com/hyperfollow/arshrai/yo-bato" target="_blank">streaming service</a>.
 
-*For more information about the song, or if you want to collaborate, *[*contact Arsh*](/contact)*.*
