@@ -66,7 +66,7 @@ params:
         style: icon
         icon_class: fa-instagram
         new_window: true
-      - label: lorem-ipsum
+      - label: Soundcloud
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
