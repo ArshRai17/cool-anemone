@@ -8,7 +8,7 @@ thumb_img_alt: Yo Bato Artwork
 content_img_alt: Yo Bato Artwork
 thumb_img_path: /images/artwork-yo-bato.png
 content_img_path: /images/artwork-yo-bato.png
-excerpt: 'The story behind Arsh''s debut single Yo Bato. NOW AVAILABLE '
+excerpt: 'Arsh''s debut single Yo Bato. NOW AVAILABLE '
 layout: post
 ---
 "Yo Bato" means "This Road," and literally, Yo Bato has taken me to all the unexplored roads, nooks and crannies of making music. Exploring the theme for Yo Bato was a big step, and recording and mixing the song was a giant leap—not for mankind, but it was indeed for a professional writer like me 🤓.
