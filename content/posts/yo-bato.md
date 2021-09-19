@@ -37,6 +37,6 @@ So that's pretty much it. A quick summary of all the jazz that I went through to
 
 P.S I am working on my next greatest song in the world. Your support and encouragement will mean a lot!
 
-##### Listen to Yo Bato on your favourite <a href="href=https://distrokid.com/hyperfollow/arshrai/yo-bato" target="_blank">streaming service</a>.
+##### Listen to Yo Bato on your favourite streaming service.
 
 *For more information about the song, or if you want to collaborate, *[*contact Arsh*](/contact)*.*
