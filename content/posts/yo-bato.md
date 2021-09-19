@@ -8,7 +8,7 @@ thumb_img_alt: Yo Bato Artwork
 content_img_alt: Yo Bato Artwork
 thumb_img_path: /images/artwork-yo-bato.png
 content_img_path: /images/artwork-yo-bato.png
-excerpt: 'The story behind Arsh's debut single, Yo Bato.\ 
+excerpt: 'The story behind Arsh''s debut single, Yo Bato.\ 
 NO AVAILABLE '
 layout: post
 ---
