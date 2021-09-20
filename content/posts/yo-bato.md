@@ -33,6 +33,6 @@ One key factor to keep in mind is the timeline. If you don't have a timeline (it
 
 So that's pretty much it. A quick summary of all the jazz that I went through to record this song. Be open-minded and enjoy listening to this unique contemporary Nepali music, and take what resonates with you.
 
-P.S I am working on my next greatest song in the world. Your support and encouragement will mean a lot!
+P.S. I am working on my next greatest song in the world. Your support and encouragement will mean a lot!
 
 ##### Listen to Yo Bato on your favourite <a href="https://distrokid.com/hyperfollow/arshrai/yo-bato" target="_blank">Streaming Service</a>.
