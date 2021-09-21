@@ -1,6 +1,6 @@
 title: Arsh Rai
 baseURL: /
-anonifyURLs: true
+canonifyURLs: true
 params:
   description: Arsh Rai's Portfolio
   layout_style: overflow
