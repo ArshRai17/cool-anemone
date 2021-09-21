@@ -40,7 +40,7 @@ P.S. I am working on my next greatest song in the world. Your support and encour
 
 [<img src="/images/now-availabe-link.png">](https://distrokid.com/hyperfollow/arshrai/yo-bato)
 
-[![Yo Bato, Now Available](/images/now-availabe-link.png)](https://distrokid.com/hyperfollow/arshrai/yo-bato)
+[![Yo Bato, Now Available](images/now-availabe-link.png)](https://distrokid.com/hyperfollow/arshrai/yo-bato)
 
 
 
