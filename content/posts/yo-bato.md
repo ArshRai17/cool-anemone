@@ -39,7 +39,7 @@ P.S. I am working on my next greatest song in the world. Your support and encour
 
 
 
-[![Yo Bato, Now Available](/images/now-availabe-link.png)](https://distrokid.com/hyperfollow/arshrai/yo-bato)
+[![Yo Bato, Now Available](https://www.arshabhirai.com/images/now-availabe-link.png)](https://distrokid.com/hyperfollow/arshrai/yo-bato)
 
 
 
