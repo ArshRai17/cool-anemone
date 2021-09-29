@@ -11,7 +11,7 @@ content_img_path: /images/artwork-yo-bato.png
 excerpt: Now Available on all the major music streaming platforms.
 layout: post
 ---
-"Yo Bato" means "This Road," and literally, <a href="https://distrokid.com/hyperfollow/arshrai/yo-bato">Yo Bato</a> has taken me to all the unexplored roads, nooks and crannies of making music. Exploring the theme for Yo Bato was a big step, and recording and mixing the song was a giant leap—not for mankind, but it was indeed for a professional writer like me 🤓.
+"Yo Bato" means "This Road," and literally, <a href="https://distrokid.com/hyperfollow/arshrai/yo-bato" target="_blank">Yo Bato</a> has taken me to all the unexplored roads, nooks and crannies of making music. Exploring the theme for Yo Bato was a big step, and recording and mixing the song was a giant leap—not for mankind, but it was indeed for a professional writer like me 🤓.
 
 When I first sat down to write this piece, I was a bit fidgety. Over the years, countless artists and musicians have talked about their journey and the perils of creating their masterpiece. Yo Bato is far from a masterpiece, but I remember that I almost always learned something from other musicians whenever they shared their experiences.  As a writer and music enthusiast, I wanted to share a little about my journey of making music, what I learned in the process, and the similarities I discovered between making music and writing.
 
