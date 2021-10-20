@@ -35,7 +35,9 @@ So that's pretty much it. A quick summary of all the jazz that I went through to
 
 P.S. I am working on my next greatest song in the world. Your support and encouragement will mean a lot!
 
-Watch the official music video
+Watch the official music video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ellvWfSF9UQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Listen to Yo Bato on your favourite <a href="https://distrokid.com/hyperfollow/arshrai/yo-bato" target="_blank">Streaming Service</a>.
 
