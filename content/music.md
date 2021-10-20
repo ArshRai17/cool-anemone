@@ -15,7 +15,7 @@ I was born and brought up in Darjeeling and grew up listening to bands and music
 
 ## My Compositions
 
-[Yo Bato](https://distrokid.com/hyperfollow/arshrai/yo-bato)
+[Yo Bato](https://youtu.be/ellvWfSF9UQ)
 
 <a href="https://youtu.be/ellvWfSF9UQ" target="_blank">Watch the official music video on YouTube.</a>
 
