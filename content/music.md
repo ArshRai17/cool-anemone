@@ -19,4 +19,6 @@ My debut single, Yo Bato, was released on September 2021. A Nepali number that b
 
 [Yo Bato](https://distrokid.com/hyperfollow/arshrai/yo-bato)
 
+Watch the official music video: 
+
 [![You Bato Artwork](../images/artwork-yo-bato-gallery.png)](https://distrokid.com/hyperfollow/arshrai/yo-bato)
