@@ -4,7 +4,7 @@ date: '2021-08-17'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: >-
-  Parenthood is a blessing—the ability to nurture life—so delicate and
+  Parenthood is a blessing—the ability to nurture life, so delicate and
   dependent, and seeing it grow and change every day.
 layout: post
 thumb_img_path: /images/ARS00927-01-c8cd14b1.png
