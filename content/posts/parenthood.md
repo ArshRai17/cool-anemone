@@ -5,7 +5,7 @@ thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: >-
   Parenthood is a blessing—the ability to nurture life, so delicate and
-  dependent, and seeing it grow and change every day.
+  dependent, and see it grow and change every day.
 layout: post
 thumb_img_path: /images/ARS00927-01-c8cd14b1.png
 content_img_path: /images/ARS00927-01.png
