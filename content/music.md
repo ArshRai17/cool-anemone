@@ -11,8 +11,6 @@ As an introspective singer-composer, I love creating music that gives listeners 
 
 I was born and brought up in Darjeeling and grew up listening to bands and musicians like Extreme, Dream Theatre, Europe, George Benson, Jaco Pastorius, Al Jarreau, Bill Withers, Prince, RHCP, and Jamiroquai,  to name a few. We are talking about the 90s and mixtapes here. From a small-town boy mixing tapes, I now make my own music, taking inspiration from the bands that I grew up listening to yet staying close to my roots.
 
-My debut single, Yo Bato, was released on September 2021. A Nepali number that blends American funk with contemporary Nepali music.
-
 ### <a name="songs"></a>
 
 ## My Compositions
