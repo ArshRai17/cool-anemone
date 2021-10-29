@@ -3,7 +3,7 @@ title: Music
 subtitle: >-
   It's only when I am playing an instrument or singing, I can let go of
   everything else and just be in that moment.
-img_path: /images/website-music-photo.png
+img_path: /images/website.jpg
 img_alt: Arsh's music profile image
 layout: page
 ---
