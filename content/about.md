@@ -11,7 +11,7 @@ Over the last decade (and more), I’ve:
 
 *   developed a deep interest in the different ways people discover and process information
 
-*   Wrote and review several UI texts
+*   Wrote and review several product interface copy
 
 *   wrote and designed a wide variety of GUI and CLI based technical content
 
