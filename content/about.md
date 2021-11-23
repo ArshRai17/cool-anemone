@@ -11,9 +11,11 @@ Over the last decade (and more), I’ve:
 
 *   developed a deep interest in the different ways people discover and process information
 
+*   reviewed and wrote several UI texts
+
 *   wrote and designed a wide variety of GUI and CLI based technical content
 
-*   reviewed and wrote several UI texts
+
 
 *   managed information architecture (IA) for several technical documentation
 
