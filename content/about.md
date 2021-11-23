@@ -15,7 +15,7 @@ Over the last decade (and more), I’ve:
 
 *   wrote and designed a wide variety of GUI and CLI based technical content
 
-*   managed information architecture (IA) for technical documentation
+*   managed information architecture (IA) for web-based technical documentation
 
 *   kept the end-user at the centre for all content development process
 
