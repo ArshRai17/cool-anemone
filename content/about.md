@@ -11,7 +11,7 @@ Over the last decade (and more), I’ve:
 
 *   developed a deep interest in the different ways people discover and process information
 
-*   wrote copy for various product interface copy from on-screen interface text, user onboarding and in-app messages to push notifications and tooltips
+*   wrote copy for various product interfaces copy from on-screen interface text, user onboarding and in-app messages to push notifications and tooltips
 
 *   wrote and designed a wide variety of GUI and CLI based technical content
 
