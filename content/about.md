@@ -25,4 +25,4 @@ I identify and understand the user and business needs, enjoy working with design
 
 > Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity. Charles Mingus
 
-Other than developing technical information for [Solace PubSub+ products](https://solace.com/products/platform/), I create [Music](/music), drink in and spend time with my family.
+Other than developing technical information for [Solace PubSub+ products](https://solace.com/products/platform/), I create [Music](/music), drink insane amount of Darjeeling tea,  and spend time with my family.
