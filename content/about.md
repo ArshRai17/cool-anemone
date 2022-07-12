@@ -25,4 +25,4 @@ I identify and understand the user and business needs, enjoy working with design
 
 > Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity. Charles Mingus
 
-Besides developing technical information for [VMware Tanzu](https://tanzu.vmware.com/tanzu), I create [Music](/music), drink an insane amount of Darjeeling tea, and spend time quality time with my family.
+Besides developing technical information for [VMware Tanzu](https://tanzu.vmware.com/tanzu), I create [Music](/music), drink an insane amount of Darjeeling tea, and spend quality time with my family.
