@@ -6,7 +6,7 @@ sections:
     title: 'Hi, I''m Arsh Rai.'
     section_id: hero
     content: |
-      Content designer, UX writer,  and music enthusiast.
+      Technical writer, content designer  and music enthusiast.
   - type: section_content
     title: About
     section_id: about
@@ -14,7 +14,7 @@ sections:
       # about me
 
 
-      #### I'm a content designer and UX writer based in Ottawa, Canada.
+      #### I'm a technical writer and content designer based in Ottawa, Canada.
 
 
       I enjoy collaborating with technical, design, and business teams to
