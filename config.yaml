@@ -8,7 +8,7 @@ params:
     type: header
     title: Arsh Rai
     tagline: Technical Writer | Content Designer
-    profile_img: /images/website-image-profile-photo.png
+    profile_img: /images/profile-photo.png
     profile_img_alt: Author avatar
     background: dark
     has_nav: true
