@@ -60,12 +60,6 @@ params:
         new_window: true
         no_follow: false
         type: action
-      - type: action
-        label: Instagram
-        url: 'https://www.instagram.com/arshraimusic/'
-        style: icon
-        icon_class: fa-instagram
-        new_window: true
   footer:
     type: footer
     content: >-
