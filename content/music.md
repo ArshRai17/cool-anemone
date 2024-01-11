@@ -13,7 +13,7 @@ Born and brought up in Darjeeling, I grew up listening to bands and musicians li
 
 ### <a name="songs"></a>
 
-## My Compositions
+## My music
 
 [Yo Bato](https://youtu.be/ellvWfSF9UQ)
 
