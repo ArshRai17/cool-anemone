@@ -5,6 +5,7 @@
     {{ if .Site.Params.GoogleAnalyticsID }}
     {{ partial "analytics-gtag.html" . }}
    {{ end }}
+   {{ partial "ads" . }}
   </header>
 
   <div class="post-feed">
