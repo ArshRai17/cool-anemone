@@ -4,8 +4,8 @@ params:
   description: Arsh Rai's Portfolio
   layout_style: overflow
   palette: blue
+  googleAnalyticsID: "G-V46M0XX9KH"
   header:
-    googleAnalyticsID: "G-V46M0XX9KH"
     type: header
     title: Arsh Rai
     tagline: Technical Writer | Content Designer
