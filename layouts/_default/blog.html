@@ -2,6 +2,9 @@
 
   <header class="screen-reader-text">
     <h1>{{ .Params.title }}</h1>
+    {{ if .Site.Params.GoogleAnalyticsID }}
+    {{ partial "analytics-gtag.html" . }}
+   {{ end }}
   </header>
 
   <div class="post-feed">

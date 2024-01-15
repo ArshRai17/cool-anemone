@@ -48,6 +48,9 @@
             {{ with .NextInSection }}
   <a href="{{ .Permalink }}">{{ .Title }}</a>
 {{ end }}
+{{ if .Site.Params.GoogleAnalyticsID }}
+{{ partial "analytics-gtag.html" . }}
+{{ end }}
 
             <!--
             <div class="post-content">
