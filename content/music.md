@@ -23,4 +23,4 @@ Born and brought up in Darjeeling, I grew up listening to bands and musicians li
 
 [A Lover's Serenade](https://www.youtube.com/watch?v=WnqIA_ZYMQw)
 
-[![A Lover's Serenade Artwork](../images/artwork-lovers-serenade-galleryy.png)](https://www.youtube.com/watch?v=WnqIA_ZYMQw)
+[![A Lover's Serenade Artwork](../images/artwork-lovers-serenade-gallery.png)](https://www.youtube.com/watch?v=WnqIA_ZYMQw)
