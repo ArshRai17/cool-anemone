@@ -66,6 +66,7 @@ params:
         url: 'https://open.spotify.com/artist/2PkVlDFlh9dg2YQTb1qVAJ'
         style: icon
         icon_class: fa-spotify
+        new_window: true
   footer:
     type: footer
     content: >-
