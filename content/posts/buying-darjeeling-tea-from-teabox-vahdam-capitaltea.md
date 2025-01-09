@@ -70,7 +70,7 @@ Most teas that I’ve bought from Capital Tea have been excellent, with a few ex
 
 #### Price and Payment
 
-They are price competitive and cheaper than Teabox and Vahdam Tea, given that their shipping fees are much lower. Also, if you purchase over CAD$60, shipping is free within Canada. I always get free shipping!
+They are price competitive and cheaper than Teabox and Vahdam Tea, given that their shipping fees are much lower. Also, if you purchase over CAD $60, shipping is free within Canada. I always get free shipping!
 
 You can pay using your credit card or by calling them on the phone.
 
