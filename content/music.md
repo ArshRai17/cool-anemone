@@ -7,9 +7,11 @@ img_path: /images/website.jpg
 img_alt: Arsh's music profile image
 layout: page
 ---
-As an introspective singer-composer, I love creating music that gives listeners a fresh perspective and an impression to ponder over. I enjoy combining funk, blues, jazz, reggae and rock with mellow Nepali folk and contemporary music.
-
 Born and brought up in Darjeeling, I grew up listening to bands and musicians like Extreme, Dream Theatre, Europe, George Benson, Jaco Pastorius, Al Jarreau, Bill Withers, Prince, RHCP, and Jamiroquai,  to name a few. We are talking about the 90s and mixtapes here. From a small-town boy mixing tapes, I now make my own music, taking inspiration from the bands that I grew up listening to yet staying close to my roots.
+
+As an introspective singer-composer, I love creating music that gives listeners a fresh perspective and an impression to ponder over. I enjoy combining funk, blues, jazz, reggae and rock with Nepali folk and contemporary music.
+
+Besides writing and recording music in my home studio, I play guitar with the awesome musicians at [The Bluestone Collective](https://www.facebook.com/TheBluestoneCollective/).
 
 ### <a name="songs"></a>
 
@@ -24,3 +26,10 @@ Born and brought up in Darjeeling, I grew up listening to bands and musicians li
 [A Lover's Serenade](https://www.youtube.com/watch?v=WnqIA_ZYMQw)
 
 [![A Lover's Serenade Artwork](../images/artwork-lovers-serenade-gallery.png)](https://www.youtube.com/watch?v=WnqIA_ZYMQw)
+
+## My band
+
+[The Bluestone Collective](https://www.facebook.com/TheBluestoneCollective/)
+
+[Spotify] (https://open.spotify.com/artist/1V05NSAgmfhTsMYcAwuFT5)
+
