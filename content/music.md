@@ -31,5 +31,5 @@ When I’m not writing and recording in my home studio, you can find me jamming 
 
 [The Bluestone Collective](https://www.facebook.com/TheBluestoneCollective/)
 
-[Spotify] (https://open.spotify.com/artist/1V05NSAgmfhTsMYcAwuFT5)
+[Spotify](https://open.spotify.com/artist/1V05NSAgmfhTsMYcAwuFT5)
 
