@@ -11,7 +11,7 @@ Born and brought up in Darjeeling, I grew up listening to bands and musicians li
 
 As an introspective singer-composer, I love creating music that gives listeners a fresh perspective and an impression to ponder over. I enjoy combining funk, blues, jazz, reggae and rock with Nepali folk and contemporary music.
 
-When I’m not writing and recording in my home studio, you can find me jamming on guitar with some awesome musicians at [The Bluestone Collective](https://www.facebook.com/TheBluestoneCollective/).
+When I’m not recording music in my home studio, you can find me jamming on guitar with some awesome musicians at [The Bluestone Collective](https://www.facebook.com/TheBluestoneCollective/).
 
 ### <a name="songs"></a>
 
