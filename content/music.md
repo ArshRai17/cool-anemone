@@ -7,11 +7,9 @@ img_path: /images/website.jpg
 img_alt: Arsh's music profile image
 layout: page
 ---
-Born and brought up in Darjeeling, I grew up listening to bands and musicians like Extreme, Dream Theatre, Europe, George Benson, Jaco Pastorius, Al Jarreau, Bill Withers, Prince, RHCP, and Jamiroquai,  to name a few. We are talking about the 90s and mixtapes here. From a small-town boy mixing tapes, I now make my own music, taking inspiration from the bands that I grew up listening to yet staying close to my roots.
+I grew up in Darjeeling, surrounded by awesome music. I was influenced by bands and artists like Extreme, Dream Theater, Europe, George Benson, Jaco Pastorius, Al Jarreau, Bill Withers, Prince, the Red Hot Chili Peppers, and Jamiroquai—definitely a mix from the 90s and those classic mixtapes! From a small-town boy mixing tapes, I now make my own music, taking inspiration from all my old favorites while keeping it close to my roots. 
 
-As an introspective singer-composer, I love creating music that gives listeners a fresh perspective and an impression to ponder over. I enjoy combining funk, blues, jazz, reggae and rock with Nepali folk and contemporary music.
-
-When I’m not recording music in my home studio, you can find me jamming on guitar with some awesome musicians at [The Bluestone Collective](https://www.facebook.com/TheBluestoneCollective/).
+As a singer-songwriter, I love creating music that gives listeners a fresh perspective and an impression to ponder over. I like to blend genres, mixing in funk, blues, jazz, reggae, and rock with some Nepali folk and contemporary vibes. When I'm not recording music at home, you'll probably find me jamming on guitar with some talented pals at [The Bluestone Collective](https://www.facebook.com/TheBluestoneCollective/). It's always a great time!
 
 ### <a name="songs"></a>
 
