@@ -7,13 +7,24 @@ img_path: /images/website.jpg
 img_alt: Arsh's music profile image
 layout: page
 ---
-I grew up in Darjeeling, surrounded by incredible music and talented musicians. The vibrant local music scene influenced me profoundly. I was equally inspired by blues, jazz, and rock music, and loved listening to bands and artists like Extreme, Dream Theater, George Benson, Bill Withers, Prince, the Red Hot Chili Peppers, and Jamiroquai—a mix from the 90s and those classic mixtapes! From a small-town boy making mixtapes, I now make my own music, drawing inspiration from all my old favorites while staying close to my roots.
+My love for music started early in my life, shaping my artistic journey and igniting a lifelong passion that continues to fuel my love for music. My musical roots trace back to school choirs and concerts, where I spent countless hours practicing with friends, refining my craft, and discovering the magic of performance.
 
-As a singer-songwriter, I enjoy crafting music that offers listeners a fresh perspective and something to ponder. I love blending genres, mixing funk, blues, jazz, reggae, and rock with elements of Nepali folk and contemporary vibes. When I’m not recording music, you’ll likely find me jamming on guitar with my talented bandmates at [The Bluestone Collective](https://www.facebook.com/TheBluestoneCollective/). It's always a great time!
+Growing up in Darjeeling, I was inspired by the vibrant music scene, drawn to a diverse spectrum of artists—from the soulful blues of B.B. King and Eric Clapton to the electrifying funk of Red Hot Chili Peppers and Jamiroquai, as well as the progressive intensity of Pink Floyd and Dream Theater. While blues, jazz, funk, and rock form the foundation of my musical identity, I approach every genre with curiosity and an open heart and take what resonates within me. My time in New Zealand sparked a passion for reggae, adding a new layer to my artistic expression.
+
+As a recording artist, I strive to create music that inspires listeners to embrace new perspectives. When I'm not in my home studio, I find joy in experimenting with guitar pedals or jamming with my bandmates at [The Bluestone Collective](https://www.facebook.com/TheBluestoneCollective/).
 
 ### <a name="songs"></a>
 
 ## My music
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+    <meta charset="utf-8">
+
+   {{ partial "image-gallery" (dict "context" . "gallery_dir" "/album") }}
+</head>
+
 
 [Yo Bato](https://youtu.be/ellvWfSF9UQ)
 
