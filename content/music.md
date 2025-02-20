@@ -17,15 +17,6 @@ As a recording artist, I strive to create music that inspires listeners to embra
 
 ## My music
 
-<!DOCTYPE html>
-<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
-<head>
-    <meta charset="utf-8">
-
-   {{ partial "image-gallery" (dict "context" . "gallery_dir" "/album") }}
-</head>
-
-
 [Yo Bato](https://youtu.be/ellvWfSF9UQ)
 
 
